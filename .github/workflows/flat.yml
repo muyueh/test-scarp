@@ -7,6 +7,8 @@ on:
 
 jobs:
   fetch:
+    permissions:
+      contents: write
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -15,3 +17,4 @@ jobs:
         with:
           http_url: https://udn.com/api/more?page=1&id=1&channelId=1&cate_id=0&type=breaknews
           downloaded_filename: udn_breaking_news.json
+          github_token: ${{ secrets.GITHUB_TOKEN }}
