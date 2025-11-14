@@ -75,12 +75,22 @@ def crawl_breaking_news(
     *,
     pages: int,
     delay: float = 0.0,
+    timeout: float = 10.0,
     session: Optional[requests.Session] = None,
 ) -> List[dict]:
-    """Fetch multiple pages of UDN breaking news."""
+    """Fetch multiple pages of UDN breaking news.
+
+    Args:
+        pages: Number of result pages to request.
+        delay: Optional delay between page fetches in seconds.
+        timeout: Per-request timeout in seconds.
+        session: Optional shared :class:`requests.Session` instance.
+    """
 
     if pages < 1:
         raise ValueError("pages must be at least 1")
+    if timeout <= 0:
+        raise ValueError("timeout must be greater than zero")
 
     owns_session = session is None
     session = session or requests.Session()
@@ -88,7 +98,7 @@ def crawl_breaking_news(
     try:
         for index in range(pages):
             page_number = index + 1
-            payload = fetch_page(session, page=page_number)
+            payload = fetch_page(session, page=page_number, timeout=timeout)
             collected.extend(_normalise_item(item) for item in payload.get("lists", []))
             if delay > 0 and page_number < pages:
                 time.sleep(delay)
@@ -109,12 +119,18 @@ def _parse_args(argv: Optional[Iterable[str]] = None) -> argparse.Namespace:
         help="Optional file path to write JSON results",
     )
     parser.add_argument("--indent", type=int, default=2, help="JSON indentation level (default: 2)")
+    parser.add_argument(
+        "--timeout",
+        type=float,
+        default=10.0,
+        help="HTTP request timeout in seconds (default: 10)",
+    )
     return parser.parse_args(list(argv) if argv is not None else None)
 
 
 def main(argv: Optional[Iterable[str]] = None) -> int:
     args = _parse_args(argv)
-    articles = crawl_breaking_news(pages=args.pages, delay=args.delay)
+    articles = crawl_breaking_news(pages=args.pages, delay=args.delay, timeout=args.timeout)
     serialised = json.dumps(articles, ensure_ascii=False, indent=args.indent)
     if args.output:
         args.output.parent.mkdir(parents=True, exist_ok=True)
