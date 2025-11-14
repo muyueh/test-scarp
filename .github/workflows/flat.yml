@@ -12,9 +12,16 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Fetch latest headlines
-        uses: githubocto/flat@v3
+      - name: Set up Python
+        uses: actions/setup-python@v5
         with:
-          http_url: https://udn.com/api/more?page=1&id=1&channelId=1&cate_id=0&type=breaknews
-          downloaded_filename: udn_breaking_news.json
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          python-version: "3.x"
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+      - name: Generate normalized headlines
+        run: python udn_crawler.py --pages 3 --output udn_breaking_news.json
+      - name: Commit dataset
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update breaking news dataset"
+          file_pattern: udn_breaking_news.json
