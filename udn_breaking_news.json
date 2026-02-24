@@ -1,8 +1,330 @@
 [
   {
-    "title": "關稅連環拳？美媒爆「川普擬加徵新國安關稅」 鎖定6大產業",
+    "title": "各國陷入混亂！還有其他關稅問題待解",
+    "summary": "儘管最高法院認定對等關稅違憲，但裁決書並未針對目前美國已經收下的稅款是否該退款提供具體指引，退款問題將面臨長時間的法律訴訟。",
+    "link": "https://udn.com/news/story/124373/9340702?from=udn-ch1_breaknews-1-0-news",
+    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/24/0/34511109.jpg&s=Y&x=0&y=56&sw=1277&sh=851&exp=3600",
+    "published_at": "2026-02-24 09:29"
+  },
+  {
+    "title": "川普拒退對等關稅？彭博分析勝算不大 關鍵在川普政府先前1承諾",
+    "summary": "彭博資訊報導，美國聯邦最高法院裁定川普政府對等關稅違憲後，後續高達1700億美元（約5.38兆台幣）退稅問題轉由下級法院...",
+    "link": "https://udn.com/news/story/6813/9340703?from=udn-ch1_breaknews-1-0-news",
+    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/24/realtime/34511110.jpg&s=Y&x=0&y=0&sw=5567&sh=3711&exp=3600",
+    "published_at": "2026-02-24 09:29"
+  },
+  {
+    "title": "過年都在聊台積電！他曝小公務員默默買30年 存數百張成「隱形富翁」",
+    "summary": "台股金蛇年亮麗封關，收在33,605.71點，蛇年大漲10,080.3點，護國神山台積電以1,915元收盤，股價全年上漲780元、漲幅達68.72%，是台股飆升的重要引擎。春節連假剛結束，財信傳媒董事長謝金河發現，今年過年大家談論的話題都是台積電股票，直言「台灣的底氣在民間」，強調長期投資者默默累積財富，展現台灣社會的韌性與實力。",
+    "link": "https://udn.com/news/story/12806/9340662?from=udn-ch1_breaknews-1-0-news",
+    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/20/realtime/34490827.jpg&s=Y&x=0&y=0&sw=5000&sh=3334&exp=3600",
+    "published_at": "2026-02-24 09:27"
+  },
+  {
+    "title": "哥貸款買進台積電卻踏空漲幅⋯他只買006208+00631L反賺贏！",
+    "summary": "近年股市向上，市場相當熱絡，一名網友在Dcard以「暴衝上漲時人人都覺得自己是股神」為題發文，分享哥哥多年跟隨投顧老師操作股票的經歷，從疫情後大賺意氣風發，到2025年提前出場躲過大跌卻錯失後續大漲，引發心態轉折。文章曝光後掀起熱議，不少網友直言「少賺比虧錢更痛苦」，也有人直指這是多數投資人的通病。",
+    "link": "https://udn.com/news/story/123006/9339673?from=udn-ch1_breaknews-1-0-news",
+    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/23/2/34505254.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600",
+    "published_at": "2026-02-24 09:27"
+  },
+  {
+    "title": "口味意外適合日本人？巴勒斯坦家鄉菜在京都重現",
+    "summary": "你知道在日本京都有一家巴勒斯坦料理店嗎？地點就在下鴨神社不遠處，可以吃到阿拉伯地區常見的炸豆泥餅和鷹嘴豆泥。",
+    "link": "https://udn.com/news/story/6810/9340700?from=udn-ch1_breaknews-1-0-news",
+    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/24/0/34511099.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600",
+    "published_at": "2026-02-24 09:27"
+  },
+  {
+    "title": "台積電逆勢美股開高！台股續漲逾500點再創新高",
+    "summary": "AI對各產業可能造成的衝擊與川普關稅隱憂，衝擊美股四大指數昨夜全面收黑，台積電（2330）ADR隨之小跌0.13%，輝達...",
+    "link": "https://udn.com/news/story/7251/9340699?from=udn-ch1_breaknews-1-0-news",
+    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/23/2/34508179.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600",
+    "published_at": "2026-02-24 09:27"
+  },
+  {
+    "title": "鄭麗文出席新北團拜未合體 侯友宜：各有各的工作",
+    "summary": "國民黨主席鄭麗文今天將參加國民黨新北市黨部，新北市長侯友宜則到鶯歌、三峽參加行動治理，兩人沒有同框。今天被問到兩人聯繫情...",
+    "link": "https://udn.com/news/story/6656/9340698?from=udn-ch1_breaknews-1-0-news",
+    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/24/realtime/34511094.jpg&s=Y&x=0&y=17&sw=2364&sh=1576&exp=3600",
+    "published_at": "2026-02-24 09:25"
+  },
+  {
+    "title": "莫斯科火車站爆炸襲警 1死2傷凶嫌當場喪命",
+    "summary": "俄羅斯內政部表示，1名男子今天凌晨在莫斯科（Moscow）市中心一輛警用巡邏車旁引爆爆裂物，造成1名警員殉職，另有兩人受...",
+    "link": "https://udn.com/news/story/6809/9340629?from=udn-ch1_breaknews-1-0-news",
+    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/24/98/34511063.jpg&s=Y&x=0&y=0&sw=1277&sh=852&exp=3600",
+    "published_at": "2026-02-24 09:22"
+  },
+  {
+    "title": "經典賽／沒說是因怕影響氣勢 美國隊強投史庫柏證實只投1場就閃人",
+    "summary": "兩屆塞揚史庫柏（Tarik Skubal）披上美國隊球衣出戰世界棒球經典賽，但將是「1場限定」，他今天受訪證實，只會在經...",
+    "link": "https://udn.com/news/story/10785/9340680?from=udn-ch1_breaknews-1-0-news",
+    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/24/1/34511075.jpg&s=Y&x=0&y=0&sw=1277&sh=852&exp=3600",
+    "published_at": "2026-02-24 09:21"
+  },
+  {
+    "title": "台灣新生兒減半、貓登記數增3.2倍 弘光科大老師提醒因應",
+    "summary": "弘光科技大學動物保健系助理教授侯志遠發表最新研究報告，追蹤2015年至2025年關鍵人口與寵物指標發現，台灣新生兒數量在...",
+    "link": "https://udn.com/news/story/6928/9340673?from=udn-ch1_breaknews-1-0-news",
+    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/24/realtime/34511043.jpg&s=Y&x=0&y=0&sw=1800&sh=1200&exp=3600",
+    "published_at": "2026-02-24 09:13"
+  },
+  {
+    "title": "慶元宵送健康 嘉市3天開打肺炎鏈球菌等3種疫苗前200名贈燈籠",
+    "summary": "元宵節將近，嘉市府衛生局加碼推出疫苗接種好康。今天起至26日一連3天，每天下午4時至6時，在文化公園（民族路側）設置社區...",
+    "link": "https://udn.com/news/story/7266/9340672?from=udn-ch1_breaknews-1-0-news",
+    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/24/realtime/34511035.png&s=Y&x=0&y=11&sw=1587&sh=1058&exp=3600",
+    "published_at": "2026-02-24 09:12"
+  },
+  {
+    "title": "一文看懂第122條：川普關稅戰的新法律武器",
+    "summary": "在美國最高法院否決川普政府依據緊急權力法加徵關稅後，川普迅速援引另一項法律，即《1974年貿易法》第122條，對進口商品...",
+    "link": "https://udn.com/news/story/124373/9340661?from=udn-ch1_breaknews-1-0-news",
+    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/24/realtime/34511008.jpg&s=Y&x=0&y=0&sw=3323&sh=2214&exp=3600",
+    "published_at": "2026-02-24 09:07"
+  },
+  {
+    "title": "美專家憂川普頓失關稅籌碼 習近平從容出席美中峰會",
+    "summary": "美國最高法院推翻川普部分關稅措施後，外界關注美中峰會走向。華府專家今天指出，川普原本倚賴的關稅壓力削弱，將難在「川習會」...",
+    "link": "https://udn.com/news/story/124373/9340576?from=udn-ch1_breaknews-1-0-news",
+    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/24/98/34511000.jpg&s=Y&x=0&y=0&sw=1277&sh=852&exp=3600",
+    "published_at": "2026-02-24 09:02"
+  },
+  {
+    "title": "台南運動盛事2026古都馬拉松逾2萬5千人報名 警公布交通管制區域",
+    "summary": "2026古都馬拉松將於3月1日舉辦，台南市警第四分局將自當日清晨4時起陸續實施交通管制，管制區域涵蓋中西區、南區及安平區...",
+    "link": "https://udn.com/news/story/7326/9340654?from=udn-ch1_breaknews-1-0-news",
+    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/24/realtime/34510895.jpg&s=Y&x=0&y=11&sw=1477&sh=984&exp=3600",
+    "published_at": "2026-02-24 09:01"
+  },
+  {
+    "title": "綠島接收金門太武輪成錢坑 拿不出8000萬淪海底魚礁？",
+    "summary": "台東縣綠島鄉公所2025年接收了金門政府退役的客貨輪「太武輪」，原本希望經過修復後，能支援綠島與蘭嶼的貨運及民生補運，但中央補助一直遲未下文，使這艘船至今滯留高雄港，每月衍生高額規費，遭鄉民戲稱為「買回一個錢坑」。\r\n\r\n行政院為何至今不願點頭撥款？高達8000萬元的修復費背後隱藏了哪些技術難題？聯合報數位版深入追蹤太武輪從金門到綠島的「流浪記」，看這場看似雙贏的資源回收，如何演變成地方與中央互踢皮球的公關災難，並解析離島交通維運中，那些被大眾忽略的隱性成本。",
+    "link": "https://udn.com/news/story/7314/9339405?from=udn-ch1_breaknews-1-0-news",
+    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/23/realtime/34505307.jpg&s=Y&x=0&y=0&sw=780&sh=520&exp=3600",
+    "published_at": "2026-02-24 09:00"
+  },
+  {
+    "title": "看好馬年房市V型反轉？建商觀望但房仲搶先拓點徵才",
+    "summary": "有別於股市強強滾，全台房市2025年明顯降溫，交易量落入低檔盤整，但價格並未出現明顯鬆動。馬年房市情勢如何？市場人士認為，不同於過去房市修正多伴隨景氣反轉，近年在AI產業帶動下，台灣經濟成長動能穩健、股市表現亮眼，房市卻呈現量縮價撐的特殊結構，今年房市有機會出現V型反轉。",
+    "link": "https://udn.com/news/story/7238/9339573?from=udn-ch1_breaknews-1-0-news",
+    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/23/realtime/34506148.jpg&s=Y&x=0&y=0&sw=5418&sh=3570&exp=3600",
+    "published_at": "2026-02-24 09:00"
+  },
+  {
+    "title": "十五五開局如何影響台灣？一文盤點福建2026對台政策",
+    "summary": "中國大陸今年是「十五五規劃」（第15個五年規劃，2026至2030年）的首年，對台工作會議也已經舉行。具體對台工作如何落實，除了大陸中央，還有賴各地方政府的協調，對台第一線的福建省在近期地方「兩會」中，實際上已經密集端出各種相關政策措施的規畫，若梳理福建各地的「工作報告」，可發現其依不同城市特色，提出了包括產業、打造共同市場、生活圈；青年學生與棒壘球運動、民間信仰交流等對台政策，我們還可以從中看出什麼趨勢？",
+    "link": "https://udn.com/news/story/7331/9339004?from=udn-ch1_breaknews-1-0-news",
+    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/23/realtime/34504051.jpg&s=Y&x=0&y=0&sw=4858&sh=3269&exp=3600",
+    "published_at": "2026-02-24 09:00"
+  },
+  {
+    "title": "影／電郵恐嚇北捷殺人警南下高雄逮人 曾多次犯案家屬嘆「十分無奈」",
+    "summary": "台北捷運昨接獲恐嚇訊息，針對特定班車提及「殺人」、「火災」等字眼，警方獲報根據班車資訊派員清查特定班車及北捷松山站站體，...",
+    "link": "https://udn.com/news/story/7321/9340647?from=udn-ch1_breaknews-1-0-news",
+    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/24/realtime/34510816.jpg&s=Y&x=0&y=0&sw=984&sh=657&exp=3600",
+    "published_at": "2026-02-24 08:59"
+  },
+  {
+    "title": "Anthropic控3家中企竊取模型數據 恐釀國安風險",
+    "summary": "美國人工智慧公司Anthropic今天表示，已發現3家中國AI公司展開行動，非法擷取其聊天機器人Claude的技術能力，...",
+    "link": "https://udn.com/news/story/7240/9340588?from=udn-ch1_breaknews-1-0-news",
+    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/24/98/34510813.jpg&s=Y&x=84&y=0&sw=1193&sh=795&exp=3600",
+    "published_at": "2026-02-24 08:59"
+  },
+  {
+    "title": "MLB／鄭宗哲扛先發游擊2支0 一線之隔吞三振",
+    "summary": "效力紅襪隊的台灣內野手鄭宗哲，在今年大聯盟春訓熱身賽首度先發亮相，今天面對光芒隊擔任第八棒、游擊手，2打數沒有安打、吞下...",
+    "link": "https://udn.com/news/story/6999/9340646?from=udn-ch1_breaknews-1-0-news",
+    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/24/1/34511059.jpg&s=Y&x=0&y=188&sw=1280&sh=853&exp=3600",
+    "published_at": "2026-02-24 08:59"
+  },
+  {
+    "title": "金與正黨代會獲提拔 晉升北韓勞動黨部長",
+    "summary": "北韓國營媒體今天報導，北韓領導人金正恩（Kim Jong Un）的胞妹金與正（Kim Yo Jong）在罕見召開的執政黨...",
+    "link": "https://udn.com/news/story/6809/9340587?from=udn-ch1_breaknews-1-0-news",
+    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/24/98/34510810.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600",
+    "published_at": "2026-02-24 08:58"
+  },
+  {
+    "title": "祿存星庇佑！年後「四生肖」不爭不搶就有財…蛇專業變現、他要加薪了",
+    "summary": "紫微斗數一點通姚本軍老師臉書分享，在紫微斗數中，祿存星不是暴起暴落的偏財星，而是一顆「把錢留住」的星曜。祿存星的能量留住資源、肯定付出，而帶來被提拔、被引導、承接財運的福氣。祿存星的影響，在農曆正月後特別明顯，四大生肖更是不爭不搶，財氣就大爆發。",
+    "link": "https://udn.com/news/story/7268/9340619?from=udn-ch1_breaknews-1-0-news",
+    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/24/0/34510777.jpg&s=Y&x=0&y=0&sw=1200&sh=800&exp=3600",
+    "published_at": "2026-02-24 08:57"
+  },
+  {
+    "title": "重訓當心運動傷害！健身胸痛竟是胸大肌斷裂 縫合加復健才恢復",
+    "summary": "北部一名27歲林姓男子平時有規律健身習慣，某次在健身房進行臥推訓練，在休息時放下槓鈴的瞬間，突然感到右側胸口劇烈疼痛，右...",
+    "link": "https://udn.com/news/story/7266/9340642?from=udn-ch1_breaknews-1-0-news",
+    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/24/realtime/34510799.jpg&s=Y&x=0&y=0&sw=1200&sh=795&exp=3600",
+    "published_at": "2026-02-24 08:56"
+  },
+  {
+    "title": "川普再啟15%關稅 分析：巴西意外成最大受益者",
+    "summary": "美國最高法院推翻總統川普以「緊急狀態」為由祭出的高額關稅，川普隨即宣布依據其他法律重新啟動全球性15%進口關稅。媒體分析...",
+    "link": "https://udn.com/news/story/124373/9340567?from=udn-ch1_breaknews-1-0-news",
+    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/24/98/34510789.jpg&s=Y&x=0&y=0&sw=1278&sh=852&exp=3600",
+    "published_at": "2026-02-24 08:53"
+  },
+  {
+    "title": "考季必拜！日本御首神社「專管脖子以上」 求運、治病靠帽子顯神蹟",
+    "summary": "日本各地有許多神社，但在岐阜縣大垣市，有一座對「頸部以上」的願望特別靈驗的「御首神社」。這裡不僅供奉著日本三大怨靈之一的平將門公，信眾更會拿「帽子」來還願，每逢考季或為求平息頭部相關疾病，都吸引大批參拜者前來。",
+    "link": "https://udn.com/news/story/6812/9338610?from=udn-ch1_breaknews-1-0-news",
+    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/23/0/34506468.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600",
+    "published_at": "2026-02-24 08:51"
+  },
+  {
+    "title": "錄取率高達33%！警察缺額仍創新高 網指3因素：不如去科技業輪班",
+    "summary": "警察作為人民保姆，有哪些權益是被忽視的呢？一名網友發文，稱他查詢過近年來的資料，發現警察的缺額逐年遞增、錄取率更是高達33%，好奇大家不願當警察的原因。對此，網友們普遍認為警察風險高、薪資低、工時長等因素，造成人們不願從事該行業。",
+    "link": "https://udn.com/news/story/6939/9340580?from=udn-ch1_breaknews-1-0-news",
+    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/24/0/34510608.jpg&s=Y&x=0&y=0&sw=798&sh=532&exp=3600",
+    "published_at": "2026-02-24 08:49"
+  },
+  {
+    "title": "他沒有民宿登記證臉書卻貼台南永康日租套房出租 挨罰6萬勒令停業",
+    "summary": "謝姓男子沒有取得民宿登記證卻在臉書張貼日租套房出租文，台南市觀旅局開罰6萬元並勒令停業，謝不服提告主張房屋是自有住宅，沒...",
+    "link": "https://udn.com/news/story/7321/9340632?from=udn-ch1_breaknews-1-0-news",
+    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/24/realtime/34510763.jpg&s=Y&x=0&y=0&sw=1306&sh=873&exp=3600",
+    "published_at": "2026-02-24 08:48"
+  },
+  {
+    "title": "過年刮刮樂刮中20萬怕自己有危險 大雅警深夜護鈔送女子回家",
+    "summary": "農曆春節大年初三，一名女子在台中市大雅區永和路彩券行刮中20萬元，當場兌換現金後，擔心自己身懷大量現金有危險，打110電...",
+    "link": "https://udn.com/news/story/7320/9340631?from=udn-ch1_breaknews-1-0-news",
+    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/24/realtime/34510762.jpg&s=Y&x=0&y=14&sw=1166&sh=776&exp=3600",
+    "published_at": "2026-02-24 08:46"
+  },
+  {
+    "title": "00940配息0.045元被酸爆？股民苦笑：扣掉匯費還能買大罐茶裏王",
+    "summary": "元大臺灣價值高息ETF（00940）最新收益分配結果出爐。根據公開資訊觀測站公告，115年2月11日完成收益分配評價，已達分配標準，預估每受益權單位配發0.045元，現金股利將於4月1日發放。不過消息",
+    "link": "https://udn.com/news/story/123006/9340621?from=udn-ch1_breaknews-1-0-news",
+    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/23/0/34503702.jpg&x=&y=&sw=&sh=&exp=3600",
+    "published_at": "2026-02-24 08:42"
+  },
+  {
+    "title": "川普速報／川普擬徵新國安關稅 民主黨推法案要求退稅",
+    "summary": "編按：美國總統川普上任以來，掀起全球「川普風暴」。聯合報數位版即日起每周一至周五，由資深編譯搭配AI協作，一早為讀者編按精選川普最新發言，快速整理對全球經貿政策與國際局勢的影響。\r\n\r\n速報觀察\r\n\r\n•美國聯邦最高法院推翻川普依緊急權力法課徵的關稅後，川普政府一方面改以《貿易擴張法》232條與《貿易法》122條尋求替代關稅工具，擴大課稅空間；另一方面，民主黨則推動退還約1750億美元關稅。新一輪關稅措施與退稅主張，勢將在國內外掀起新一波法律與政治攻防。",
+    "link": "https://udn.com/news/story/124068/9340625?from=udn-ch1_breaknews-1-0-news",
+    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/24/realtime/34510732.jpg&s=Y&x=0&y=0&sw=1860&sh=1240&exp=3600",
+    "published_at": "2026-02-24 08:42"
+  },
+  {
+    "title": "拖吊流氓？陳宥丞曝業者用關鍵字廣告套路手法 促北市府嚴查",
+    "summary": "日前雙北地區屢傳天價拖吊費消費糾紛的爭議業者，民眾黨北市議員陳宥丞也接獲陳情，痛批這就是「拖吊流氓」 ，要求北市府須嚴查...",
+    "link": "https://udn.com/news/story/7320/9340614?from=udn-ch1_breaknews-1-0-news",
+    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/24/realtime/34510722.jpeg&s=Y&x=100&y=0&sw=1080&sh=720&exp=3600",
+    "published_at": "2026-02-24 08:34"
+  },
+  {
+    "title": "春季型天氣來了！ 天氣風險：明起進入天氣變化快速時期",
+    "summary": "春季型天氣要來了，天氣風險公司天氣分析師廖于霆今天指出，今天天氣相對穩定，明起進入天氣變化快速時期，每天天氣都有變化，需...",
+    "link": "https://udn.com/news/story/7266/9340613?from=udn-ch1_breaknews-1-0-news",
+    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/24/realtime/34510719.jpeg&s=Y&x=0&y=0&sw=4000&sh=2667&exp=3600",
+    "published_at": "2026-02-24 08:34"
+  },
+  {
+    "title": "北市職安模擬訓練再升級 體驗吊掛、電焊、綁鋼筋工地實況",
+    "summary": "為了防止工安意外，北市設置多體感延伸實境（XR）職安模擬訓練，市長蔣萬安也曾親自體驗，去年完成更新，除了新增「局限空間體...",
+    "link": "https://udn.com/news/story/7323/9340612?from=udn-ch1_breaknews-1-0-news",
+    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/24/realtime/34510717.jpg&s=Y&x=0&y=0&sw=4669&sh=3113&exp=3600",
+    "published_at": "2026-02-24 08:34"
+  },
+  {
+    "title": "義大利警官擊斃毒販爆索賄內幕 梅洛尼震怒斥叛國",
+    "summary": "義大利近日發生一起警官槍殺毒販案，檢方追查卻發現，該名警官疑似索賄並捲入販毒組織。義大利總理梅洛尼今天以書面聲明表達震怒...",
+    "link": "https://udn.com/news/story/6812/9340558?from=udn-ch1_breaknews-1-0-news",
+    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/wj/realtime/2026/02/02/34347015.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600",
+    "published_at": "2026-02-24 08:34"
+  },
+  {
+    "title": "幫74歲母存ETF⋯投30萬配0050等4檔！網卻一面倒：不如花錢享福",
+    "summary": "高齡者買股如何配？一名網友在Dcard發文表示，替74歲母親將30萬元閒置資金投入ETF，配置0050、00701、0056與00919等標的，並稱目前無需領息花用，詢問是否需要調整。貼文曝光後引發熱議，不少網友認為高齡長輩不適合再承擔市場風險，直言「74歲應該是享受花錢的時候」。",
+    "link": "https://udn.com/news/story/123006/9339687?from=udn-ch1_breaknews-1-0-news",
+    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/23/0/34505994.jpg&x=&y=&sw=&sh=&exp=3600",
+    "published_at": "2026-02-24 08:33"
+  },
+  {
+    "title": "北投工地監測數據消失2個月？ 黃瀞瑩：別讓大都更成大「損鄰」時代",
+    "summary": "2023年基泰大直建築工地損鄰事件，北市府修損鄰規則納第三方認定，也要求監測數據透明化。但北投民眾發現住家旁工地的監測數...",
+    "link": "https://udn.com/news/story/7323/9340611?from=udn-ch1_breaknews-1-0-news",
+    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/24/realtime/34510712.jpg&s=Y&x=0&y=11&sw=1477&sh=984&exp=3600",
+    "published_at": "2026-02-24 08:33"
+  },
+  {
+    "title": "白內障爭議案纏訟5年終翻案 眼科名醫賴麗如無罪確定義診列車續駛",
+    "summary": "歷經5年官司煎熬，嘉義知名眼科醫師賴麗如終於沉冤得雪。她過去因健保白內障手術申報問題，被依詐欺罪判刑2年；全案上訴後，二...",
+    "link": "https://udn.com/news/story/7321/9340610?from=udn-ch1_breaknews-1-0-news",
+    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/24/realtime/34510710.jpg&s=Y&x=0&y=11&sw=1477&sh=984&exp=3600",
+    "published_at": "2026-02-24 08:33"
+  },
+  {
+    "title": "春雨不來蘭潭淹沒區巫家古井露頭 水情吃緊水利署調度控管出水",
+    "summary": "春節假期落幕，新春開工上班，嘉義縣市水情讓民眾心頭一緊。入冬以來降雨少，供應民生工業用水的仁義潭與蘭潭水庫水位持續下探，...",
+    "link": "https://udn.com/news/story/7326/9340594?from=udn-ch1_breaknews-1-0-news",
+    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/24/realtime/34510653.jpg&s=Y&x=0&y=11&sw=1477&sh=984&exp=3600",
+    "published_at": "2026-02-24 08:26"
+  },
+  {
+    "title": "金銀價格連五漲憂關稅不確定性 油價持穩觀望美伊會談",
+    "summary": "國際油價今天（24日）盤初持穩，美國總統川普表示，在美國與伊朗本周舉行會談之前，他傾向與伊朗達成一項核協議，但同時警告，...",
+    "link": "https://udn.com/news/story/6811/9340592?from=udn-ch1_breaknews-1-0-news",
+    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/24/realtime/34510641.jpg&s=Y&x=0&y=40&sw=5824&sh=3882&exp=3600",
+    "published_at": "2026-02-24 08:26"
+  },
+  {
+    "title": "美伊核談判前風聲鶴唳 美國突撤離駐黎巴嫩使館非緊急人員",
+    "summary": "衛報報導，美軍加大在中東部署、未來幾天可能對伊朗發動打擊之際，美國政府宣布撤離駐黎巴嫩使館數十名人員。多位美國官員近來示...",
+    "link": "https://udn.com/news/story/6813/9340599?from=udn-ch1_breaknews-1-0-news",
+    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/24/realtime/34510666.jpg&s=Y&x=0&y=0&sw=5500&sh=3668&exp=3600",
+    "published_at": "2026-02-24 08:26"
+  },
+  {
+    "title": "極罕見！輕型貨車輾過這東西爆胎 輪胎行老闆：做幾十年第一次看到",
+    "summary": "在馬路上行駛時被異物刺破輪胎的情況時有所聞。有一名男網友表示，自己經營輪胎生意幾十年，竟然第一次看到有輕型貨車的輪胎，被一隻高跟鞋插入刺穿，而且還是連鞋子一起送來維修，讓他直呼「大開眼界」。不少網友笑說，「可能是全球首例」、「千萬不要得罪女人」。",
+    "link": "https://udn.com/news/story/7335/9340561?from=udn-ch1_breaknews-1-0-news",
+    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/24/0/34510516.jpg&x=&y=&sw=&sh=&exp=3600",
+    "published_at": "2026-02-24 08:23"
+  },
+  {
+    "title": "陸外交部：日方若想發展中日關係就撤回高市涉台言論",
+    "summary": "大陸外交部23日晚間以發言人林劍名義，集體回覆2月15日至23日大陸春節連假期間外國媒體提問。針對富士電視台提問，日本首...",
+    "link": "https://udn.com/news/story/7331/9340582?from=udn-ch1_breaknews-1-0-news",
+    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/24/realtime/34510612.png&s=Y&x=0&y=0&sw=7364&sh=4905&exp=3600",
+    "published_at": "2026-02-24 08:23"
+  },
+  {
+    "title": "不小心當奧客了嗎？日旅館點名房客5大NG行為 床上飲食入列",
+    "summary": "外出旅遊入住飯店，基本的禮貌與公德心不可少。位於日本大阪難波的「Hotel B-Suites」近日在社群平台上發文，分享飯店員工最怕遇到的「5大NG行為」，引發眾多網友按讚熱議，不少人看完全直呼：「竟然真的有人會這樣做！」",
+    "link": "https://udn.com/news/story/6812/9338841?from=udn-ch1_breaknews-1-0-news",
+    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/18/98/32934069.jpg&s=Y&x=0&y=0&sw=1027&sh=685&exp=3600",
+    "published_at": "2026-02-24 08:22"
+  },
+  {
+    "title": "姓李了不起？駕駛追撞前車 司機「報上名號」：我姓李！身分笑翻全網",
+    "summary": "開車發生車禍，報上「姓李」就能解決？有香港男子在社群平台發文表示，日前開車時遭後方車輛追撞，沒想到對方一下車就「報上名號」自稱「我姓李！」，他當場反問「姓李又怎樣？」，對方接下來的說法更讓他當場傻眼，最後只好報警處理。",
+    "link": "https://udn.com/news/story/7335/9340572?from=udn-ch1_breaknews-1-0-news",
+    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/24/0/34510583.jpg&x=&y=&sw=&sh=&exp=3600",
+    "published_at": "2026-02-24 08:22"
+  },
+  {
+    "title": "獨／瘦瘦針打完16周內最危險 糖尿病患視網膜病變惡化機率增",
+    "summary": "施打瘦瘦針太多未知風險，本身也是藥學教授的眼科醫師洪啟庭指出，翻閱國內外醫學期刊後發現，台灣過去尚未出現過在打了瘦瘦針後...",
+    "link": "https://udn.com/news/story/7266/9340579?from=udn-ch1_breaknews-1-0-news",
+    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/24/realtime/34510603.jpg&s=Y&x=0&y=12&sw=1280&sh=852&exp=3600",
+    "published_at": "2026-02-24 08:21"
+  },
+  {
+    "title": "毛小孩可以點光明燈？ 命理師：可點！留意5大民俗習慣即可",
+    "summary": "台灣社會步入少子化，但飼養寵物的「毛小孩」家長越來越多，也把寵物當成家庭的一員，近來也流行替毛小孩點光明燈，命理師楊登嵙...",
+    "link": "https://udn.com/news/story/7268/9340578?from=udn-ch1_breaknews-1-0-news",
+    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/24/realtime/34510600.jpg&s=Y&x=0&y=16&sw=2400&sh=1600&exp=3600",
+    "published_at": "2026-02-24 08:15"
+  },
+  {
+    "title": "關稅連環拳？ 美媒爆「川普擬加徵新國安關稅」 鎖定6大產業",
     "summary": "華爾街日報引述知情人士透露，美國聯邦最高法院裁決對等關稅失效後，美國總統川普研擬依據「1962年貿易法」第232條，以國...",
-    "link": "https://udn.com/news/story/6813/9340574?from=udn-ch1_breaknews-1-0-news",
+    "link": "https://udn.com/news/story/124373/9340574?from=udn-ch1_breaknews-1-0-news",
     "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/24/realtime/34510582.jpg&s=Y&x=0&y=0&sw=3890&sh=2593&exp=3600",
     "published_at": "2026-02-24 08:08"
   },
@@ -96,327 +418,5 @@
     "link": "https://udn.com/news/story/7266/9340525?from=udn-ch1_breaknews-1-0-news",
     "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/24/realtime/34510346.jpg&s=Y&x=0&y=6&sw=866&sh=576&exp=3600",
     "published_at": "2026-02-24 07:10"
-  },
-  {
-    "title": "趕在立院施政報告前 鄭麗君將親上火線說明關稅最新情勢",
-    "summary": "美國關稅出現變局，行政院深夜通知，主責談判的行政院副院長鄭麗君、總談判代表兼政務委員楊珍妮24日將親上火線，於上午...",
-    "link": "https://udn.com/news/story/124621/9340390?from=udn-ch1_breaknews-1-0-news",
-    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/24/realtime/34508827.jpg&s=Y&x=0&y=29&sw=4300&sh=2866&exp=3600",
-    "published_at": "2026-02-24 07:04"
-  },
-  {
-    "title": "從選秀權下手打擊球隊擺爛輸球 NBA「防坦計畫」真有效嗎？",
-    "summary": "NBA今年球季許多球隊不想贏球「故意擺爛」輸球情況嚴重，上周以球員健康為由輪休，但實際擺爛輸球的爵士被聯盟罰了50萬美元，溜馬也被開罰10萬美元，NBA開始針對球隊擺爛情況祭出鐵腕。\r\n\r\n網路上戲稱",
-    "link": "https://udn.com/news/story/122629/9340386?from=udn-ch1_breaknews-1-0-news",
-    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/23/0/34508964.jpg&s=Y&x=0&y=0&sw=1277&sh=852&exp=3600",
-    "published_at": "2026-02-24 07:00"
-  },
-  {
-    "title": "經典賽／徐若熙在內共9人參賽 軟銀須防WBC後遺症壞了3連霸",
-    "summary": "經典賽各國參賽名單於日前公布，當時軟銀與阪神各有4人入選日本國家隊，石井大智之後因傷退出，軟銀獨自成為日職參賽人數最多的球隊，如果把外籍球員也算進來的話，軟銀更共有9人代表所屬國家參賽，雖然官方沒有統",
-    "link": "https://udn.com/news/story/122629/9339932?from=udn-ch1_breaknews-1-0-news",
-    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/23/0/34507494.jpg&s=Y&x=0&y=0&sw=798&sh=532&exp=3600",
-    "published_at": "2026-02-24 07:00"
-  },
-  {
-    "title": "2026洋基春訓賈吉超狂、柯爾回歸 新賽季陣容深度令人期待",
-    "summary": "﻿\r\n隨著2026年春訓在佛羅里達州與亞利桑納州岸同時拉開序幕，紐約洋基隊的陣容可謂星光熠熠且充滿鬥志。從隊長賈吉(Aaron Judge)的超狂狀態，到王牌投手柯爾(Gerrit Cole)的術後回",
-    "link": "https://udn.com/news/story/122629/9339809?from=udn-ch1_breaknews-1-0-news",
-    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/23/0/34506988.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600",
-    "published_at": "2026-02-24 07:00"
-  },
-  {
-    "title": "二次詐騙瞄準絕望被害人 「付費追財損」被連剝兩層",
-    "summary": "近年假投資成為最嚴重的詐騙手法，件數及財損均居冠，民眾被騙投資股票或虛擬貨幣等，轉帳或當面交付現金血本無歸，想拿回財損求助無門；詐騙集團瞄準這些內心絕望的被害人，佯稱可協助追回財損，收取相關費用「二次詐騙」，連剝兩層皮。\r\n\r\n員警說，被騙只有透過司法及檢警體系追討財損，不存在任何民間機制，但被害人心理脆弱，在恐懼與期待下作出錯誤決定，越想挽回損失，越容易再次受騙。",
-    "link": "https://udn.com/news/story/7266/9339285?from=udn-ch1_breaknews-1-0-news",
-    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/23/realtime/34504984.jpg&s=Y&x=0&y=26&sw=3912&sh=2608&exp=3600",
-    "published_at": "2026-02-24 07:00"
-  },
-  {
-    "title": "陸砸逾千億美元發展半導體 童振源分析與台積電的距離",
-    "summary": "中華民國駐新加坡代表童振源本月出版新書《台灣居於核心：全球半導體版圖與戰略重組中的關鍵夥伴》，以政策導向與全球視角出發，深入剖析當前全球正在進行的「半導體戰略重組」，包括台灣在全球半導體生態系中的核心地位，以及中國在先進製程受限下，加速成熟製程擴張的發展路徑。但為何他會認為中國要與台積電競爭還言之過早？",
-    "link": "https://udn.com/news/story/7333/9338564?from=udn-ch1_breaknews-1-0-news",
-    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/23/realtime/34502983.jpeg&s=Y&x=0&y=912&sw=4175&sh=2783&exp=3600",
-    "published_at": "2026-02-24 07:00"
-  },
-  {
-    "title": "初九「天公生」今晚開拜…小心3大地雷 誤踩恐衰整年",
-    "summary": "今天是大年初八，明天（三）是「初九天公生」玉皇大帝生日，民俗專家廖大乙提醒，別忘了要「拜天公」，從今晚11時（子時）起就...",
-    "link": "https://udn.com/news/story/7268/9340522?from=udn-ch1_breaknews-1-0-news",
-    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/24/realtime/34510286.jpg&s=Y&x=0&y=0&sw=5201&sh=3467&exp=3600",
-    "published_at": "2026-02-24 06:55"
-  },
-  {
-    "title": "首部反送中抗爭青年獄中日記在台出版 理科男政治犯寫下「那些日子」",
-    "summary": "「在這裡有很多榜樣給我上課，似乎是上天給我安排了堂課，一堂長達二十多個月的課，全日制。全天授課。醒著就上課。」2019年...",
-    "link": "https://udn.com/news/story/6885/9340465?from=udn-ch1_breaknews-1-0-news",
-    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/24/realtime/34509857.jpg&s=Y&x=0&y=15&sw=1045&sh=696&exp=3600",
-    "published_at": "2026-02-24 06:54"
-  },
-  {
-    "title": "【專家之眼】台美關稅談判 台灣的阿Q式勝利",
-    "summary": "台美「對等」貿易談判結果出爐，各方解讀南轅北轍，執政團隊選在國人放長假前夕公布，讓人見識到政府的機關算盡，尤其是掌控媒體...",
-    "link": "https://udn.com/news/story/124621/9340506?from=udn-ch1_breaknews-1-0-news",
-    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/24/realtime/34510150.jpeg&s=Y&x=192&y=0&sw=4857&sh=3238&exp=3600",
-    "published_at": "2026-02-24 06:06"
-  },
-  {
-    "title": "國旅春節「開紅盤」 圖解近年出遊人次 3大景區表現亮眼",
-    "summary": "過年9天連假結束，交通部長陳世凱表示，連假期間風景區及國家主題樂園人次，從去年平均每日35萬人次，今年達73萬人次，成長109%，高喊「國旅新春開紅盤」，但旅宿業者提醒，政府不該以春節出遊人次，就對國旅過度樂觀。",
-    "link": "https://udn.com/news/story/7314/9340417?from=udn-ch1_breaknews-1-0-news",
-    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/23/1/34508802.png&x=&y=&sw=&sh=&exp=3600",
-    "published_at": "2026-02-24 05:50"
-  },
-  {
-    "title": "政府若看不清國際大局 恐讓台灣淪輸家又當「盤仔」",
-    "summary": "美國川普政府的關稅戰一變再變，搞得全球都不得安寧，歐盟原定24日表決去年與川普政府達成協議的一項關鍵承諾事項，在當前充滿不確定的因素下，確定延後討論。正如川普競選時承諾快速俄烏戰爭，但至今仍未實現。川普政府的諸多不確定性，早已讓各國謹慎以對，行政院過年前宣布談好的台美貿易協定，如今同樣充滿諸多不確定，面對業者與各界的疑問，府院連日來無法釋疑，賴清德總統邀五院院長茶敘，看似有意跨出朝野和解的第一步，但若一味要求國會配合、無視國際大局走向，讓台灣成了輸家又當冤大頭，如何對得起人民。",
-    "link": "https://udn.com/news/story/6656/9340430?from=udn-ch1_breaknews-1-0-news",
-    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/24/realtime/34509160.png&s=Y&x=0&y=5&sw=799&sh=532&exp=3600",
-    "published_at": "2026-02-24 05:50"
-  },
-  {
-    "title": "道瓊一度重摔逾800點 關稅動盪和AI焦慮蔓延",
-    "summary": "美國總統川普無視最高法院裁定他先前的對等關稅措施違法，宣布加徵15%全球關稅。市場擔心貿易戰捲土重來，加上對人工智慧（A...",
-    "link": "https://udn.com/news/story/6811/9340420?from=udn-ch1_breaknews-1-0-news",
-    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/24/realtime/34509034.jpg&s=Y&x=0&y=0&sw=4999&sh=3332&exp=3600",
-    "published_at": "2026-02-24 00:40"
-  },
-  {
-    "title": "歷史上的今天／1958年台南安定烏腳病患赴台大醫院治療",
-    "summary": "1958年2月24日，受皮膚病困擾達30年的台南安定鄉復榮村500餘居民，衛生當局下最大決心分批移來台北市台大醫院治療，當時的台大醫院院長高天成表示，復榮村皮膚怪病為世界罕有的一種奇症，經中外醫學專家實地調查研究多年，當時對此一皮膚怪病之病源尚未找出，病名亦無法確定，現在暫稱之為「黑腳病」（即今烏腳病）...",
-    "link": "https://udn.com/news/story/7314/9338490?from=udn-ch1_breaknews-1-0-news",
-    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/23/realtime/34502758.jpg&s=Y&x=0&y=0&sw=4488&sh=2928&exp=3600",
-    "published_at": "2026-02-24 00:00"
-  },
-  {
-    "title": "009816過年前出清獲利了結…少賺比賠錢更難受？小犬：機會不會只來一次",
-    "summary": "少賺，比賠錢更難受？\r\n\r\n過年前我把凱基台灣TOP 50（009816）賣掉了，說真的，當下只是想把獲利先收進口袋，讓自己過年安心一點，結果年後一看，股價又往上衝，心裡第一個念頭就是：「早知道不要賣",
-    "link": "https://udn.com/news/story/123006/9340289?from=udn-ch1_breaknews-1-0-news",
-    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/23/2/34504446.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600",
-    "published_at": "2026-02-23 23:18"
-  },
-  {
-    "title": "驚死人！009816今居然成交71.2萬張…陳重銘：經理費全台最低0.07％適合長期投資",
-    "summary": "驚死人，凱基台灣TOP50（009816）今天居然成交71.2萬張，東森記者馬上來採訪。\r\n\r\n009816過去分享很多次，搜一下粉絲團就會有，不再贅述。\r\n編輯推薦009816太新剛上市不敢買先觀望",
-    "link": "https://udn.com/news/story/123006/9340233?from=udn-ch1_breaknews-1-0-news",
-    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/23/0/34505994.jpg&x=&y=&sw=&sh=&exp=3600",
-    "published_at": "2026-02-23 23:04"
-  },
-  {
-    "title": "2026年新春房市開紅盤 台中房市剛需支撐案場穩健升溫",
-    "summary": "2026年金馬年春節長假落幕，台中房市在政策環境趨於明朗及剛性需求支撐下，展現穩健的銷售動能。不同於過往的盲目追價，今年...",
-    "link": "https://udn.com/news/story/7241/9340229?from=udn-ch1_breaknews-1-0-news",
-    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/23/realtime/34508527.jpg&s=Y&x=0&y=0&sw=2508&sh=1672&exp=3600",
-    "published_at": "2026-02-23 22:57"
-  },
-  {
-    "title": "ASML EUV光源技術突破 2030年晶片產量可望增五成",
-    "summary": "半導體微影設備龍頭艾司摩爾（ASML）表示，找到方法強化晶片製造設備的光源功率，能讓晶片產量到2030年最多增加五成，有...",
-    "link": "https://udn.com/news/story/6811/9340221?from=udn-ch1_breaknews-1-0-news",
-    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/23/realtime/34508513.jpg&s=Y&x=0&y=0&sw=8640&sh=5760&exp=3600",
-    "published_at": "2026-02-23 22:54"
-  },
-  {
-    "title": "009816霸榜台股ETF成交王…上市累計漲9％！21萬股民搶進擠身市值型ETF前三強",
-    "summary": "金馬年台股順利開出紅盤，市場資金回流買氣旺盛，其中被譽為今年ETF市場最大黑馬的凱基台灣TOP50（009816）表現尤其亮眼。這檔掛牌不久的市值型新兵，在開市首日爆出超過71萬張的歷史天量，不僅刷新",
-    "link": "https://udn.com/news/story/123006/9340216?from=udn-ch1_breaknews-1-0-news",
-    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/23/2/34506791.jpg&s=Y&x=0&y=0&sw=1247&sh=831&exp=3600",
-    "published_at": "2026-02-23 22:52"
-  },
-  {
-    "title": "川普發文警告！若有國家想利用最高法院判決耍花招 將面臨更高關稅",
-    "summary": "美國最高法院20日判決總統川普的對等關稅失效。美國總統川普23日在社群平台「真實社群」發文表示，「若有任何國家敢利用最高...",
-    "link": "https://udn.com/news/story/124373/9340217?from=udn-ch1_breaknews-1-0-news",
-    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/23/realtime/34508502.jpg&s=Y&x=0&y=0&sw=3936&sh=2624&exp=3600",
-    "published_at": "2026-02-23 22:51"
-  },
-  {
-    "title": "葉騰任荷蘭總理鼓舞LGBTQ+ 昔因同志身分遭言語暴力",
-    "summary": "中間派民六六黨（D66）領袖葉騰（Rob Jetten）今天宣誓就職，成為荷蘭首位公開的同志總理，荷蘭的LGBTQ+組織...",
-    "link": "https://udn.com/news/story/6809/9340121?from=udn-ch1_breaknews-1-0-news",
-    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/23/98/34508478.jpg&s=Y&x=0&y=48&sw=1271&sh=847&exp=3600",
-    "published_at": "2026-02-23 22:40"
-  },
-  {
-    "title": "美貿易代表：關稅敗訴不影響既有協議 沒有國家要毀約",
-    "summary": "美國貿易代表葛里爾（Jamieson Greer）今天表示，儘管最高法院裁決推翻總統川普的多項關稅措施，美國與歐盟、中國...",
-    "link": "https://udn.com/news/story/124373/9340206?from=udn-ch1_breaknews-1-0-news",
-    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/23/98/34508465.jpg&s=Y&x=56&y=36&sw=1197&sh=798&exp=3600",
-    "published_at": "2026-02-23 22:37"
-  },
-  {
-    "title": "國際法院稱杜特蒂法外處決案 凸顯當權者不得凌駕法律",
-    "summary": "一名國際刑事法院的檢察官今天表示，針對菲律賓前總統杜特蒂涉嫌在「掃毒戰」中「法外處決」數以千計的可疑毒販召開的聽證會，證...",
-    "link": "https://udn.com/news/story/6809/9340183?from=udn-ch1_breaknews-1-0-news",
-    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/27/98/34304119.jpg&s=Y&x=0&y=0&sw=929&sh=619&exp=3600",
-    "published_at": "2026-02-23 22:37"
-  },
-  {
-    "title": "開工日拚翻身！大樂透頭獎槓龜 下期保證1億元",
-    "summary": "大樂透第115024期今晚開獎。中獎號碼為47、27、06、23、10、48，特別號30；派彩結果，頭獎槓龜，下期（24...",
-    "link": "https://udn.com/news/story/7266/9340199?from=udn-ch1_breaknews-1-0-news",
-    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/23/98/34508454.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600",
-    "published_at": "2026-02-23 22:32"
-  },
-  {
-    "title": "川普關稅遭推翻 歐洲議會有意暫停美歐貿易協議",
-    "summary": "歐洲議會議員今天說，在美國最高法院推翻總統川普關稅措施後，將暫停與美國的重要貿易協議",
-    "link": "https://udn.com/news/story/124373/9340091?from=udn-ch1_breaknews-1-0-news",
-    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/23/realtime/34503846.jpg&s=Y&x=0&y=0&sw=5400&sh=3600&exp=3600",
-    "published_at": "2026-02-23 22:30"
-  },
-  {
-    "title": "川普揚言發動有限軍事打擊 伊朗：將視為侵略行徑予以回應",
-    "summary": "在美國總統川普聲稱考慮對伊朗發動有限軍事打擊後，伊朗今天表示，美國對其進行的任何攻擊，包括有限打擊，都會被視為「侵略行徑...",
-    "link": "https://udn.com/news/story/6809/9339765?from=udn-ch1_breaknews-1-0-news",
-    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/23/2/34502462.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600",
-    "published_at": "2026-02-23 22:18"
-  },
-  {
-    "title": "剴剴案社工辯當時沒人覺得達通報標準 檢：別扯他人",
-    "summary": "男童「剴剴」虐死案，兒盟陳姓社工涉過失致死遭起訴。北院今天開庭審理，陳姓社工辯稱，她只是社會安全網中一環，當時沒人覺得達...",
-    "link": "https://udn.com/news/story/7321/9340168?from=udn-ch1_breaknews-1-0-news",
-    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/23/98/34508355.jpg&s=Y&x=6&y=16&sw=1266&sh=844&exp=3600",
-    "published_at": "2026-02-23 22:03"
-  },
-  {
-    "title": "威力彩頭獎連三摃 下期頭獎保證2億元",
-    "summary": "威力彩今晚開獎，本期頭獎仍未開出，已經是連三槓，下期將在2月26日開獎，頭獎保證2億元；而大樂透本期同樣未開出頭獎，下期...",
-    "link": "https://udn.com/news/story/7266/9340184?from=udn-ch1_breaknews-1-0-news",
-    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/23/realtime/34508348.jpg&s=Y&x=0&y=0&sw=5357&sh=3572&exp=3600",
-    "published_at": "2026-02-23 22:00"
-  },
-  {
-    "title": "桌球／WTT新加坡大滿貫賽 林昀儒男單首輪直落三過關",
-    "summary": "世界桌球職業大聯盟（WTT）新加坡大滿貫賽，「台灣一哥」林昀儒今天在男單首輪花費不到25分鐘，以3比0擊敗法國好手巴德（...",
-    "link": "https://udn.com/news/story/7005/9340150?from=udn-ch1_breaknews-1-0-news",
-    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/23/98/34508232.jpg&s=Y&x=0&y=0&sw=1281&sh=854&exp=3600",
-    "published_at": "2026-02-23 21:47"
-  },
-  {
-    "title": "迷客夏、CoCo限時「買1送1」！還有人氣飲品2杯88、LINE禮物買1送1",
-    "summary": "剛過完新年連假，開工後身體還沒有醒過來嗎？「迷客夏」即日起推出「白甘蔗青茶」買1送1優惠，另外「CoCo」則推出「冬韻擂...",
-    "link": "https://udn.com/news/story/7270/9340161?from=udn-ch1_breaknews-1-0-news",
-    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/23/realtime/34508220.jpg&s=Y&x=0&y=15&sw=1518&sh=1012&exp=3600",
-    "published_at": "2026-02-23 21:42"
-  },
-  {
-    "title": "喚醒搖滾魂！台灣祭行前派對「南國趴」 27、28日墾丁開唱",
-    "summary": "每年吸引大批樂迷湧入墾丁最大戶外音樂節「台灣祭」，今年邁入第6年，為提前喚醒聽團仔們搖滾魂，「台灣祭行前派對－南國趴」將...",
-    "link": "https://udn.com/news/story/7327/9340158?from=udn-ch1_breaknews-1-0-news",
-    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/23/realtime/34508217.jpg&s=Y&x=0&y=0&sw=1600&sh=1066&exp=3600",
-    "published_at": "2026-02-23 21:42"
-  },
-  {
-    "title": "冬衣不要急著收！這日起2波冷空氣來襲 周末高山還有降雪機會",
-    "summary": "明天各地依然是溫暖舒適的天氣，但中央氣象署預報員劉沛滕表示，周三鋒面通過、東北季風增強，北東水氣增加且高溫略降，周五、周...",
-    "link": "https://udn.com/news/story/7266/9340139?from=udn-ch1_breaknews-1-0-news",
-    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/23/realtime/34508180.jpeg&s=Y&x=0&y=0&sw=4000&sh=2666&exp=3600",
-    "published_at": "2026-02-23 21:31"
-  },
-  {
-    "title": "關稅不確定性籠罩...美股期指挫 道指期貨一度摔261點",
-    "summary": "美國總統川普宣布加徵15%全球關稅，投資人評估可能影響，市場不確定性壟罩，美股期指23日走低，道瓊指數期貨下跌242點或...",
-    "link": "https://udn.com/news/story/124373/9340140?from=udn-ch1_breaknews-1-0-news",
-    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/23/realtime/34508181.jpg&s=Y&x=0&y=0&sw=4999&sh=3332&exp=3600",
-    "published_at": "2026-02-23 21:31"
-  },
-  {
-    "title": "錯失金價大漲別錯過它！大摩點名「貨幣版黃金」 看好強升17%",
-    "summary": "摩根士丹利策略師表示，隨著瑞士法郎擁有避險地位的信念在美國政策充滿不確定性之際日益增強，瑞郎兌美元可能升值多達17%。",
-    "link": "https://udn.com/news/story/6811/9340141?from=udn-ch1_breaknews-1-0-news",
-    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/23/realtime/34508184.jpg&s=Y&x=0&y=37&sw=5396&sh=3596&exp=3600",
-    "published_at": "2026-02-23 21:31"
-  },
-  {
-    "title": "北上廣春節文旅成績單出爐！旅遊收入皆有雙位數增長",
-    "summary": "春節九日連假結束，外界關注大陸一線城市文旅消費狀況。其中，上海市共接待遊客2167.21萬人次，年增8.36%（按可比口...",
-    "link": "https://udn.com/news/story/7333/9340138?from=udn-ch1_breaknews-1-0-news",
-    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/23/realtime/34508178.jpg&s=Y&x=0&y=10&sw=1376&sh=916&exp=3600",
-    "published_at": "2026-02-23 21:31"
-  },
-  {
-    "title": "關稅陰霾衝擊…美股電子盤走跌 台指期夜盤34,100多空拉鋸",
-    "summary": "台指期夜盤23日開盤後，受美股電子盤走跌拖累，以33,957點、下跌14點開出後，隨即在低接買盤進場中，一路上衝，最高來...",
-    "link": "https://udn.com/news/story/7255/9340134?from=udn-ch1_breaknews-1-0-news",
-    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/25/2/33486661.jpg&s=Y&x=116&y=52&sw=1112&sh=741&exp=3600",
-    "published_at": "2026-02-23 21:30"
-  },
-  {
-    "title": "金馬年首周將有22檔台股ETF除息 00891、00923等四檔年化配息率逾10%",
-    "summary": "CMoney統計，金馬年首周將有22檔台股ETF除息。其中，有四檔ETF預估年化配息率逾10%，即中信關鍵半導體（008...",
-    "link": "https://udn.com/news/story/123006/9340116?from=udn-ch1_breaknews-1-0-news",
-    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/02/2/34349903.jpg&s=Y&x=0&y=0&sw=1106&sh=737&exp=3600",
-    "published_at": "2026-02-23 21:22"
-  },
-  {
-    "title": "中共中央發文整頓「政績觀」…聚焦縣處級以上幹部 春節假期後啟動",
-    "summary": "新華社今天報導，中共中央辦公廳日前印發「關於在全黨開展樹立和踐行正確政績觀學習教育的通知」，要求教育及引導中共各級黨組織...",
-    "link": "https://udn.com/news/story/7332/9340108?from=udn-ch1_breaknews-1-0-news",
-    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/23/98/34508087.jpg&s=Y&x=0&y=0&sw=1218&sh=812&exp=3600",
-    "published_at": "2026-02-23 21:14"
-  },
-  {
-    "title": "台南新營傳家庭暴力 丈夫持刀自殘3人急送醫",
-    "summary": "台南市新營區茄苳腳今晚傳出家庭暴力事件，造成丈夫、妻子及小舅子共2男1女受傷送醫，其中丈夫情緒激動更拿刀自殘，3人意識均清...",
-    "link": "https://udn.com/news/story/7320/9340110?from=udn-ch1_breaknews-1-0-news",
-    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/23/realtime/34508072.jpg&s=Y&x=0&y=124&sw=1477&sh=985&exp=3600",
-    "published_at": "2026-02-23 21:07"
-  },
-  {
-    "title": "荷蘭新任總理葉騰就職 外交部：持續深化各領域合作",
-    "summary": "荷蘭新任總理葉騰宣誓就職，外交部今天致賀並表示，台灣珍視台荷緊密經貿關係及深厚歷史連結，將持續深化在半導體、科技創新、產...",
-    "link": "https://udn.com/news/story/6656/9340089?from=udn-ch1_breaknews-1-0-news",
-    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/23/98/34508058.jpg&s=Y&x=0&y=40&sw=1280&sh=853&exp=3600",
-    "published_at": "2026-02-23 21:06"
-  },
-  {
-    "title": "川普稱關稅失效賦予他更多權力 怒批「判決荒謬且愚蠢」",
-    "summary": "美國聯邦最高法院20日判決總統川普的對等關稅失效。川普23日在真實社群發文，聲稱該項「荒謬愚蠢且在國際上意見極為分歧」的...",
-    "link": "https://udn.com/news/story/124373/9340101?from=udn-ch1_breaknews-1-0-news",
-    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/23/realtime/34508047.jpg&s=Y&x=0&y=0&sw=3936&sh=2624&exp=3600",
-    "published_at": "2026-02-23 21:01"
-  },
-  {
-    "title": "國銀外幣存款餘額15.4兆創高卻只增2767億元 2026喊拚翻身",
-    "summary": "據金管會統計，2025年底國銀外幣存款餘額攀升到15兆3,866億元，續創史上新高，但全年僅增加2,767億元，年增額是...",
-    "link": "https://udn.com/news/story/7239/9340097?from=udn-ch1_breaknews-1-0-news",
-    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/24/1/32365330.jpg&s=Y&x=0&y=0&sw=1259&sh=839&exp=3600",
-    "published_at": "2026-02-23 21:00"
-  },
-  {
-    "title": "史上最強2025！國銀外幣放款暴增1464億元 2026年續衝",
-    "summary": "2025年國銀外幣放款寫歷史新頁。據央行統計，2025年底國銀外幣放款餘額6,254億元，全年新增1,464億元，改寫史...",
-    "link": "https://udn.com/news/story/7239/9340095?from=udn-ch1_breaknews-1-0-news",
-    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/18/2/34219554.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600",
-    "published_at": "2026-02-23 20:59"
-  },
-  {
-    "title": "經典賽台日大戰3月6日對決 宏匯廣場500吋巨幕直播打造應援現場",
-    "summary": "2026世界棒球經典賽（2026 World Baseball Classic）即將在3月5日至3月17日展開，全民瘋棒...",
-    "link": "https://udn.com/news/story/7270/9340093?from=udn-ch1_breaknews-1-0-news",
-    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/23/realtime/34508009.png&s=Y&x=0&y=11&sw=1678&sh=1118&exp=3600",
-    "published_at": "2026-02-23 20:57"
-  },
-  {
-    "title": "川普怒祭全球15%關稅！投資人狂買黃金避險 金價上看5450美元",
-    "summary": "美國最高法院裁決總統川普的大部分關稅措施違法、違憲後，川普放話開徵新一輪全球關稅措施的影響下，投資者轉向黃金避險，推升金...",
-    "link": "https://udn.com/news/story/7239/9340092?from=udn-ch1_breaknews-1-0-news",
-    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/23/2/34508044.jpg&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600",
-    "published_at": "2026-02-23 20:54"
-  },
-  {
-    "title": "台新新光金新春團拜 吳東亮期勉同仁千軍萬馬之姿再創高",
-    "summary": "台新新光金控（2887）23日在臺北市仁愛路總部大樓舉辦新春團拜活動，這是台新金控與新光金控合併後的首次春節團拜，由董事...",
-    "link": "https://udn.com/news/story/7239/9340088?from=udn-ch1_breaknews-1-0-news",
-    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/23/realtime/34508002.jpg&s=Y&x=0&y=0&sw=2536&sh=1690&exp=3600",
-    "published_at": "2026-02-23 20:54"
-  },
-  {
-    "title": "衝極光卻遇暴雪封路…陸客在俄連遇險 逾百人除夕前因雪受困40小時",
-    "summary": "俄羅斯對中國免簽吸引大批遊客前往旅遊，但中國遊客近日在俄羅斯接連遇險。除20日發生7名中國遊客乘車墜入貝加爾湖身亡外，逾...",
-    "link": "https://udn.com/news/story/7332/9340083?from=udn-ch1_breaknews-1-0-news",
-    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/23/98/34507998.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600",
-    "published_at": "2026-02-23 20:53"
   }
 ]
