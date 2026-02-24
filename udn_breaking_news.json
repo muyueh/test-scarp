@@ -1,6 +1,13 @@
 [
   {
-    "title": "台南南化區發生規模4.3地震 有感搖晃持續時間短",
+    "title": "台南南化凌晨1時48分規模3.6地震 有感搖晃持續監測",
+    "summary": "2月25日凌晨，臺南南化區發生芮氏規模3.6地震，震源深度約9.5公里，最大震度僅1級，搖晃輕微，無災情通報。",
+    "link": "https://udn.com/news/story/7266/9342773?from=udn-ch1_breaknews-1-0-news",
+    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/25/draft/34517764.png&s=Y&x=0&y=9&sw=1280&sh=852&exp=3600",
+    "published_at": "2026-02-25 03:12"
+  },
+  {
+    "title": "台南南化凌晨1時23分發生規模4.3地震 有感搖晃持續時間短",
     "summary": "2月25日凌晨台南南化區發生芮氏規模4.3地震，最大震度3級，震源深度淺，範圍內多縣市感受搖晃。",
     "link": "https://udn.com/news/story/7266/9342763?from=udn-ch1_breaknews-1-0-news",
     "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/25/draft/34517682.gif&s=Y&x=0&y=4&sw=640&sh=426&exp=3600",
@@ -411,12 +418,5 @@
     "link": "https://udn.com/news/story/124652/9342233?from=udn-ch1_breaknews-1-0-news",
     "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/24/realtime/34516157.jpg&s=Y&x=0&y=120&sw=1440&sh=960&exp=3600",
     "published_at": "2026-02-24 19:43"
-  },
-  {
-    "title": "為愛貓行竊4次偷肉泥、貓草錠 彰化貓奴依竊盜罪判處拘役120日",
-    "summary": "張姓婦女養貓，去年7月到9月連續5次到連鎖超市、寵物用品店偷竊貓食品，總金額5800多元，但彰化地方法院認為她非無謀生能...",
-    "link": "https://udn.com/news/story/7321/9342231?from=udn-ch1_breaknews-1-0-news",
-    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/24/realtime/34516156.jpg&s=Y&x=0&y=352&sw=4080&sh=2720&exp=3600",
-    "published_at": "2026-02-24 19:42"
   }
 ]
