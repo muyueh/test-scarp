@@ -1,23 +1,401 @@
 [
   {
+    "title": "Meta 移除全球1.59億則詐騙廣告、推出三大社交平台識詐預警工具",
+    "summary": "Meta因應詐騙技術不斷升級，持續加強打詐措施，在Facebook與 Messenger推出全新安全工具，協助用戶謹慎識詐。Meta擴大應用AI技術打造自動化識詐工具，幫助大眾抵禦假冒名人或品牌的詐騙。面對在東南亞、非洲等地的跨國詐騙集團，Meta與各地政府及執法機關合作聯合強化防線，近期在跨國調查下，停用超過15萬個與詐騙中心網絡有關的帳號；2025年Meta移除1.59億則違反政策的詐騙廣告，下架了1,090萬個與犯罪詐騙中心有關的Facebook和 Instagram 帳號。",
+    "link": "https://udn.com/news/story/7240/9376953?from=udn-ch1_breaknews-1-0-news",
+    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6644_4.jpg",
+    "published_at": "2026-03-12 21:23"
+  },
+  {
+    "title": "MLB／鄭宗哲獲紅襪1年合約 備戰新賽季",
+    "summary": "中華隊內野手鄭宗哲結束世界棒球經典賽（WBC）賽事後，前往美國備戰新賽季，波士頓紅襪隊也宣布與包含他在內的20名球員完成...",
+    "link": "https://udn.com/news/story/6999/9376944?from=udn-ch1_breaknews-1-0-news",
+    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/12/34757765.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600",
+    "published_at": "2026-03-12 21:19"
+  },
+  {
+    "title": "中工財報／去年稅後純益6.35億元、EPS 達0.4元 每股擬配0.501元股票",
+    "summary": "中工（2515）12日公告年報，2025年合併營收達207.18億元，較2024年238.46億元減少13.11%，營業毛利達15.82億元，毛利率達7.63%、較2024年6.52%減少1.11%，營業利益達9.5億元、年減0.21%，稅後純益6.35億元、較2024年7.17億元衰退11.43%，每股純益0.4元、略低於2024年0.47元。",
+    "link": "https://udn.com/news/story/7252/9376950?from=udn-ch1_breaknews-1-0-news",
+    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_3.jpg",
+    "published_at": "2026-03-12 21:18"
+  },
+  {
+    "title": "法國市長選舉將登場…選戰聚焦議題曝光！安全為重中之重",
+    "summary": "法國將於3月15日和22日舉行市長選舉，多項民意調查結果顯示選民最關切安全問題。法國媒體指出，這反映許多人憂心忡忡，除了...",
+    "link": "https://udn.com/news/story/6809/9376941?from=udn-ch1_breaknews-1-0-news",
+    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/12/34757758.jpg&M=1&s=Y&x=0&y=53&sw=1280&sh=853&exp=3600",
+    "published_at": "2026-03-12 21:17"
+  },
+  {
+    "title": "最大震度4級！花蓮地震規模5.7 台鐵部分列車減速行駛",
+    "summary": "今天晚間8時14分花蓮縣近海發生芮氏規模5.7地震，台鐵公司表示，新城至瑞穗、南澳至崇德、台中至社頭、沙鹿至彰化、斗六至...",
+    "link": "https://udn.com/news/story/7266/9376942?from=udn-ch1_breaknews-1-0-news",
+    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/12/34757757.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600",
+    "published_at": "2026-03-12 21:15"
+  },
+  {
+    "title": "美元月貿易逆差縮小25% 上周初領失業金人數微減",
+    "summary": "美國政府12日公布，今年元月貿易逆差比去年12月劇減25%，為545億美元，遠低於經濟學者預估的660億美元；而最近一周首次申領失業給付人數則略減1,000人。",
+    "link": "https://udn.com/news/story/6811/9376947?from=udn-ch1_breaknews-1-0-news",
+    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/12/34757766.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600",
+    "published_at": "2026-03-12 21:15"
+  },
+  {
+    "title": "美國CPI剛過關、油價又來亂？台指期夜盤月線保衛戰開打",
+    "summary": "台指期夜盤12日以33,630點開高，盤中走勢呈現高檔震盪格局。截至晚間9點整，台指期夜盤報33,622點、漲110點、漲幅0.3%；盤初在多方買盤推升下，最高攀至33,840點、最低33,584點，持續力守紅盤及月線（約33,555附近），33,000關卡及月線保衛戰開打。",
+    "link": "https://udn.com/news/story/7255/9376945?from=udn-ch1_breaknews-1-0-news",
+    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/12/34757762.jpg&M=1&s=Y&x=0&y=0&sw=1218&sh=812&exp=3600",
+    "published_at": "2026-03-12 21:15"
+  },
+  {
+    "title": "關係逐漸回暖？印度政府放寬陸資限制 為在印營商提供透明環境",
+    "summary": "印度政府周二（3月10日）表示，放寬相關規定將促進外國投資湧入印度，提高印度「投資目的地以及制造產地的競爭力」…",
+    "link": "https://udn.com/news/story/6809/9376730?from=udn-ch1_breaknews-1-0-news",
+    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/12/34757754.jpg&M=1&s=Y&x=0&y=12&sw=1280&sh=854&exp=3600",
+    "published_at": "2026-03-12 21:10"
+  },
+  {
+    "title": "春夏美妝換季保養趁優惠入手 遠百美麗購物節化妝品回饋最高衝15%",
+    "summary": "隨著春季新品上市，被視為母親節前哨戰的遠東百貨「美麗購物節」將於3月19日起登場，化妝品內睡衣單筆3,000元送300元，針對這一檔吸課主力化妝品，今年端出最高上看15%回饋。統一時百貨台北店、DREAM PLAZA「春時尚」檔期即起展開，3月24日前全館指定櫃位單筆滿3,000元扣點現抵300元。",
+    "link": "https://udn.com/news/story/7270/9376933?from=udn-ch1_breaknews-1-0-news",
+    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/12/34757743.jpg&M=1&s=Y&x=2&y=55&sw=1209&sh=806&exp=3600",
+    "published_at": "2026-03-12 21:05"
+  },
+  {
+    "title": "林佳龍聽取中東簡報 持續協助50名國人離境",
+    "summary": "外交部長林佳龍今天下午主持視訊會議，聽取我國駐中東地區各館處就近期中東地區情勢及協助國人相關工作的簡報；對於目前仍需協助離境的50位國人，外交部及相關館處將持續提供必要協助。",
+    "link": "https://udn.com/news/story/6656/9376931?from=udn-ch1_breaknews-1-0-news",
+    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/12/34757742.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600",
+    "published_at": "2026-03-12 21:05"
+  },
+  {
+    "title": "卓榮泰赴東京看經典賽曾會晤高市早苗？總統府：不是事實",
+    "summary": "行政院長卓榮泰赴東京觀看WBC經典賽之餘，傳出與日本首相高市早苗會面，總統府發言人郭雅慧表示，不知道傳聞從何而來，這不是事實。",
+    "link": "https://udn.com/news/story/124787/9376929?from=udn-ch1_breaknews-1-0-news",
+    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/12/34757752.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=854&exp=3600",
+    "published_at": "2026-03-12 21:04"
+  },
+  {
+    "title": "26秋冬巴黎時裝周／Jennie性感亮相 香奈兒從務實到夢想的跨時空對話",
+    "summary": "香奈兒（CHANEL）3月9日於巴黎大皇宮（Grand Palais）發表了由藝術總監Matthieu Blazy創作的2026秋冬系列。巨大的起重機在場內拔地而起，宛如兒童積木組成的鋼鐵叢林... 這次他將場景營造成一座充滿超現實色彩的工地、一個進行中的夢想建案。包括品牌大使Jennie、瑪格羅比（Margot Robbie）、張鈞甯、高允貞、以及金馬獎最佳新演員馬士媛都出席看秀。",
+    "link": "https://udn.com/news/story/7270/9376912?from=udn-ch1_breaknews-1-0-news",
+    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/12/34757704.jpg&M=1&s=Y&x=0&y=79&sw=1024&sh=683&exp=3600",
+    "published_at": "2026-03-12 20:59"
+  },
+  {
+    "title": "萬潤擬於國內新設一家投資公司 同時增資美國子公司",
+    "summary": "設備商萬潤（6187）12日公告，為配合本公司中長期營運發展及投資布局需要，擬於國內新設一家投資公司、鉑潤投資股份有限公司，同時擬增資子公司All Ring Tech USA LLC。",
+    "link": "https://udn.com/news/story/7240/9376914?from=udn-ch1_breaknews-1-0-news",
+    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6644_8.jpg",
+    "published_at": "2026-03-12 20:59"
+  },
+  {
+    "title": "難以置信！郵差投遞信件「轉身又飛回郵差後座」 神奇畫面曝光",
+    "summary": "雲林縣斗六市今天出現一個令人難以置「信」的神奇畫面，鄭姓市民今早聽到住家外有郵差送信來的聲音，走出查看信箱竟是空的，深感疑惑，即調閱監視器一看，自己也嚇了一大跳，畫面出現一封自己會飛的信。",
+    "link": "https://udn.com/news/story/7326/9376913?from=udn-ch1_breaknews-1-0-news",
+    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/12/34757732.png&M=1&s=Y&x=0&y=0&sw=1152&sh=768&exp=3600",
+    "published_at": "2026-03-12 20:59"
+  },
+  {
+    "title": "30噸巨石衛城環繞 義大利阿拉特里封存中世紀氛圍",
+    "summary": "在義大利中部，有個被30噸巨石衛城環繞的古城阿拉特里，完美封存了中世紀氛圍。此處衛城被視為歐洲保存最佳的防禦城牆之一，這...",
+    "link": "https://udn.com/news/story/6812/9376863?from=udn-ch1_breaknews-1-0-news",
+    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/12/34757692.jpg&M=1&s=Y&x=0&y=0&sw=1088&sh=726&exp=3600",
+    "published_at": "2026-03-12 20:58"
+  },
+  {
+    "title": "奇鋐沈慶行2原因看壞「微通道蓋板」MCL 散熱 不憂水冷板將被取代",
+    "summary": "AI伺服器今年技術架構變化多，高階液冷技術「微通道蓋板MCL」與「微通道液冷板MCCP」兩技術競爭激烈，其中MCL若勝出成次世代主要散熱方案，將取代水冷板，散熱龍頭奇鋐（3017）科技董事長沈慶行直言「我認為客戶不會用！」因MCL有金屬邊角易阻塞及晶片翹曲問題兩大隱患，目前奇鋐有20多項顛覆技術研究中，但MCL不在產品藍圖中。",
+    "link": "https://udn.com/news/story/7240/9376909?from=udn-ch1_breaknews-1-0-news",
+    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/12/34757698.jpg&M=1&s=Y&x=58&y=77&sw=1004&sh=643&exp=3600",
+    "published_at": "2026-03-12 20:57"
+  },
+  {
+    "title": "最強1月！國銀大賺668億攀顛峰 首破600億關卡背後原因曝",
+    "summary": "國銀2026年獲利開春報喜。金管會公布，1月國銀稅前盈餘668.7億元，首度單月衝破600億元大關，寫史上單月新高，年增24.7%。銀行局副局長張嘉魁說，主要受惠放款成長帶動淨利息收入增加，股市上漲也推升財管需求，手續費收入擴大，三大獲利來源同步走揚。",
+    "link": "https://udn.com/news/story/7239/9376908?from=udn-ch1_breaknews-1-0-news",
+    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6644_1.jpg",
+    "published_at": "2026-03-12 20:56"
+  },
+  {
+    "title": "林志東發放慰問金…意外窺見暖心故事 馬防部軍人自願輪班照顧同袍父親",
+    "summary": "連江縣南竿鄉長林志東今天表示，日前到醫院發放慰問金時，意外遇見一群馬防部士兵，自願輪班照顧同袍的父親，在病房中看到人性光...",
+    "link": "https://udn.com/news/story/7327/9376865?from=udn-ch1_breaknews-1-0-news",
+    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/12/34757683.jpg&M=1&s=Y&x=0&y=153&sw=1280&sh=854&exp=3600",
+    "published_at": "2026-03-12 20:55"
+  },
+  {
+    "title": "高市早苗疑似感冒 取消會晤波斯灣國家使節…木原稔代為出席",
+    "summary": "日本媒體今天報導，首相高市早苗出現類似感冒的症狀，已經取消原定與波斯灣合作理事會（Gulf Cooperation Co...",
+    "link": "https://udn.com/news/story/6809/9376896?from=udn-ch1_breaknews-1-0-news",
+    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/12/34757677.jpg&M=1&s=Y&x=0&y=26&sw=1280&sh=853&exp=3600",
+    "published_at": "2026-03-12 20:51"
+  },
+  {
+    "title": "上任後遲未現身…傳穆吉塔巴「受傷但平安」 伊朗國營電視台：將首度發表談話",
+    "summary": "伊朗已故最高領袖哈米尼之子穆吉塔巴（Mojtaba Khamenei）獲任命為新領袖後遲未現身，直到11日才由伊朗總統之子、政府顧問尤塞夫首度提供官方說法，稱穆吉塔巴受傷但「平安」。英國BBC報導，伊朗國營電視台表示，穆吉塔巴將首度發表談話。",
+    "link": "https://udn.com/news/story/124061/9376898?from=udn-ch1_breaknews-1-0-news",
+    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/12/34757678.jpg&M=1&s=Y&x=0&y=200&sw=853&sh=569&exp=3600",
+    "published_at": "2026-03-12 20:47"
+  },
+  {
+    "title": "高球／台灣鴻海女子高球賽 曾雅妮首日並列第9台將最佳",
+    "summary": "台巡、日巡共同認證的台灣鴻海女子高球賽，今天在東方球場進行首回合，永遠的「微笑球后」曾雅妮抓2博蒂、3柏忌繳出73桿，和...",
+    "link": "https://udn.com/news/story/7005/9376868?from=udn-ch1_breaknews-1-0-news",
+    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/12/34757673.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600",
+    "published_at": "2026-03-12 20:44"
+  },
+  {
+    "title": "浪凡超額配息5元 殖利率衝11.34%",
+    "summary": "上市數位雲端企業浪凡（6165）網路科技今日召開董事會，正式公告 2025 年營運成果，交出令市場驚嘆的亮眼成績。受惠於核心體質升級與新事業進入獲利爆發期，2025 年稅後淨利衝破 3.08 億元，每股盈餘（EPS）飆上 4 元，不僅創下公司成立以來的最高獲利紀錄，獲利能量與經營績效更雙雙寫下歷史新頁。 董事會同步決議每股配發 5 元現金股利，以今日收盤價 44.10 TWD 計算，現金殖利率高達 11.34%。",
+    "link": "https://udn.com/news/story/7253/9376892?from=udn-ch1_breaknews-1-0-news",
+    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_4.jpg",
+    "published_at": "2026-03-12 20:44"
+  },
+  {
+    "title": "波灣國家石油總產量日減1000萬桶 IEA：斷供規模超過1970年代",
+    "summary": "隨著伊朗對波斯灣地區能源目標發動新一波攻擊，國際油價再度漲破每桶100美元。國際能源總署（IEA）今天警告，中東戰爭已引...",
+    "link": "https://udn.com/news/story/124061/9376847?from=udn-ch1_breaknews-1-0-news",
+    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/12/34757668.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=854&exp=3600",
+    "published_at": "2026-03-12 20:43"
+  },
+  {
+    "title": "高雄鹽埕公寓火警濃煙竄市區 傳出已有3名住戶送醫急救",
+    "summary": "高雄市鹽埕區今天晚間7時許傳出公寓火警，大公路上一處公寓1樓，因室內不明原因起火燃燒，一度傳出有多人受困，濃煙不斷從緊閉的鐵捲門出竄出，附近住戶全跑到屋外查看，高雄市消防局至少出動10個消防分隊前往現場救援，目前掌握有3名住戶因嗆傷送醫。",
+    "link": "https://udn.com/news/story/7320/9376889?from=udn-ch1_breaknews-1-0-news",
+    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/12/34757672.jpg&M=1&s=Y&x=1&y=502&sw=959&sh=640&exp=3600",
+    "published_at": "2026-03-12 20:43"
+  },
+  {
+    "title": "彰化縣長派誰參戰？鄭麗文曝「是姊弟間如何協調」：難斷家務事",
+    "summary": "國民黨還有眾多縣市長人選未敲定，引發基層憂心，國民黨主席鄭麗文表示，基本上幾個選區三月底一定確定，其中彰化縣目前是姊弟之間如何協調的問題，但「家族長輩已經早就明確表態」，這很難斷定家務事，目前非常與謝家保持聯繫，還在積極協調中。",
+    "link": "https://udn.com/news/story/124652/9376887?from=udn-ch1_breaknews-1-0-news",
+    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/12/34757681.jpg&M=1&s=Y&x=0&y=40&sw=1280&sh=853&exp=3600",
+    "published_at": "2026-03-12 20:43"
+  },
+  {
+    "title": "鈞興財報／去年每股純益9.61元、營收獲利雙創高 擬配發5.3元股息",
+    "summary": "精密齒輪大廠鈞興-KY（4571）12日公布去年合併財報，受惠於智能傳動類產品持續成長，帶動合併營收30.65億元、年增0.1%，稅後純益4.98億元、年增4.4%，每股稅後純益9.61元，營收、獲利雙創歷史新高。",
+    "link": "https://udn.com/news/story/7253/9376886?from=udn-ch1_breaknews-1-0-news",
+    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_9.jpg",
+    "published_at": "2026-03-12 20:42"
+  },
+  {
+    "title": "國民黨金門縣長分裂 陳玉珍聲量高、好感度較低「4成負面聲量為這件事」",
+    "summary": "2026國民黨金門縣長呈現分裂局面，由立委陳玉珍對決北農董事長楊鎮浯，而現任副縣長李文良也被點名「可能」參選，但目前尚未表態，金門選情是否呈現三方角力，持續受到關注。據TPOC台灣議題研究中心指出，陳玉珍雖然聲量輾壓，但仍保有爭議話題，而楊鎮浯與李文良的曝光，大多來自新聞報導的被動提及。",
+    "link": "https://udn.com/news/story/124652/9376882?from=udn-ch1_breaknews-1-0-news",
+    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/12/34757667.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600",
+    "published_at": "2026-03-12 20:41"
+  },
+  {
+    "title": "高鋒財報／去年每股虧1.02元、不分配股利 今年營收有望二位數成長",
+    "summary": "工具機大廠高鋒工業（4510）12日公布去年合併財報，合併營收16.64億元、年減2.2%，稅後虧損1.10億元，每股稅後虧損1.02元，董事會通過，不分配股利。",
+    "link": "https://udn.com/news/story/7254/9376881?from=udn-ch1_breaknews-1-0-news",
+    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_0.jpg",
+    "published_at": "2026-03-12 20:41"
+  },
+  {
+    "title": "義大利總理：伊朗女校遇襲為「屠殺」 盼快速查明這起悲劇",
+    "summary": "梅洛尼義大利議會參議院講話時表示：「我代表政府，對伊朗南部一所學校女孩遭到屠殺表示堅決譴責」。 她還表示聲援這些「非常年輕的受害者」家屬，希望能快速查明誰應該為這場悲劇承擔責任…",
+    "link": "https://udn.com/news/story/124061/9376729?from=udn-ch1_breaknews-1-0-news",
+    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/12/34757665.jpg&M=1&s=Y&x=19&y=0&sw=1222&sh=815&exp=3600",
+    "published_at": "2026-03-12 20:40"
+  },
+  {
+    "title": "美好證券擬配息2元 淨值強勁增長、雙引擎轉型成效卓著",
+    "summary": "美好證券（6021）於12日召開董事會，通過2025年股利分派案，預計每股配發2元現金股利。從2018年迄今，美好證券逐步轉型為以資產管理與財富管理為核心的券商，放眼未來，美好證券期許公司在金融市場中更積極扮演好直接金融的角色，幫助台灣企業與個人實現財富增長與資產活化。",
+    "link": "https://udn.com/news/story/7254/9376866?from=udn-ch1_breaknews-1-0-news",
+    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/12/34757663.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=852&exp=3600",
+    "published_at": "2026-03-12 20:37"
+  },
+  {
+    "title": "生達獲利連九年創高 強調研發與海外市場布局將帶動未來成長",
+    "summary": "生達（1720）12日受邀參加法說會，由董事長范滋庭主持。生達近年營運持續穩健成長，營收與獲利表現屢創新高，范滋庭表示，未來將持續透過強化學名藥研發、挑戰專利市場、拓展海外布局及擴充產能等策略，推動公司營運進一步成長。",
+    "link": "https://udn.com/news/story/7252/9376861?from=udn-ch1_breaknews-1-0-news",
+    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_1.jpg",
+    "published_at": "2026-03-12 20:36"
+  },
+  {
+    "title": "「上下左右晃動」花蓮發生規模5.7地震 在地人：真的很搖",
+    "summary": "花蓮今晚發生規模5.7地震，深度只有15.1公里，花蓮縣花蓮市、水璉、鹽寮等地最大震度達4級，截至目前尚未有災情傳出，公路局東區養護工程分局已立即派員巡查轄管省道路況。",
+    "link": "https://udn.com/news/story/7266/9376860?from=udn-ch1_breaknews-1-0-news",
+    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/12/34757664.png&M=1&s=Y&x=0&y=96&sw=1280&sh=853&exp=3600",
+    "published_at": "2026-03-12 20:35"
+  },
+  {
+    "title": "地牛翻身…花蓮近海規模5.7地震為「獨立事件」 未來3天恐有規模5餘震",
+    "summary": "地牛翻身，花蓮近海今晚間8時14分發生規模5.7地震，地震深度15.1公里，屬於極淺層地震，氣象署針對花蓮發布國家級告警。氣象署地震中心主任吳健富表示，花蓮近海附近為板塊隱沒帶位置，地震較為頻繁，且地震深度從淺到深都有，今晚地震為獨立事件，且有助於能量釋放，但預估未來3天仍有規模5或5以下的餘震。",
+    "link": "https://udn.com/news/story/7266/9376859?from=udn-ch1_breaknews-1-0-news",
+    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/12/34757662.jpg&M=1&x=&y=&sw=&sh=&exp=3600",
+    "published_at": "2026-03-12 20:35"
+  },
+  {
+    "title": "7-ELEVEN「不可思議茶BAR」推4大系列新品 「開心果奶蓋茶拿鐵」必嘗",
+    "summary": "超商現調茶飲不斷進化，7-ELEVEN持續貼近手搖飲控嗜好、超前迎接夏日旺季需求，自3月18日起「!+?CAFE RESERVE+TEA不可思議茶BAR」全面換上新菜單，研發4款醇韻基底茶與4大系列飲品，結合省力化的專利單杯萃茶設備與24小時供應優勢，讓消費者就近到7-ELEVEN即可享受手搖飲自由。",
+    "link": "https://udn.com/news/story/7270/9376853?from=udn-ch1_breaknews-1-0-news",
+    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/12/34757654.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600",
+    "published_at": "2026-03-12 20:31"
+  },
+  {
+    "title": "美國啟動301調查 鄭麗君強調「確保我國相對優勢」",
+    "summary": "行政院副院長鄭麗君12日指出，政府談判團隊一定會全力以赴，在之前談判成果的有利基礎上，和美方保持緊密溝通，積極確保我國所取得的相對優勢和最佳待遇結果不打折扣。",
+    "link": "https://udn.com/news/story/7238/9376844?from=udn-ch1_breaknews-1-0-news",
+    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/12/34757646.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=854&exp=3600",
+    "published_at": "2026-03-12 20:28"
+  },
+  {
+    "title": "泰貨輪在荷莫茲海峽遇襲起火 泰外交部要求伊朗道歉…仍有3人失聯",
+    "summary": "泰國籍貨櫃輪「瑪雅麗娜麗號」（Mayuree Naree）11日在荷莫茲海峽遭襲擊起火，阿曼海軍救出貨輪的20名船員，尚有3人失聯。伊朗革命衛隊承認是他們所為。泰國外交部指出，23名船員都是泰國人。美聯社報導，泰國外交部向伊朗駐曼谷大使海達里表達「最強烈抗議」，要求伊朗當局道歉。",
+    "link": "https://udn.com/news/story/124061/9376843?from=udn-ch1_breaknews-1-0-news",
+    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/12/34757642.jpg&M=1&s=Y&x=2&y=288&sw=959&sh=639&exp=3600",
+    "published_at": "2026-03-12 20:28"
+  },
+  {
+    "title": "AI也可能成為「撒旦工具」？ 神父開課對抗科技邪教",
+    "summary": "隨著人工智慧迅速發展，一名天主教神父認為AI可能會被用來進行「撒旦崇拜」。為了因應這種新型的靈界威脅，他開設專門課程，邀請不同宗教領袖「跨界合作」，一起學習驅魔。",
+    "link": "https://udn.com/news/story/6810/9374806?from=udn-ch1_breaknews-1-0-news",
+    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/12/34754228.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600",
+    "published_at": "2026-03-12 20:28"
+  },
+  {
+    "title": "油價飆漲 兆豐金總座張傳章：今年台灣物價仍維持穩定",
+    "summary": "兆豐金控今（12）日舉行線上法人說明會，兆豐金總經理張傳章指出，雖然近期國際油價上漲，但油料費在消費者物價指數（CPI）權重僅約2.2%，且政府已採取油價平穩機制，未來一年台灣CPI應仍可維持相對穩定。",
+    "link": "https://udn.com/news/story/7239/9376842?from=udn-ch1_breaknews-1-0-news",
+    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/12/34757641.jpg&M=1&s=Y&x=0&y=0&sw=960&sh=640&exp=3600",
+    "published_at": "2026-03-12 20:27"
+  },
+  {
+    "title": "皇將財報／2025年三率三升！全年稅後 EPS 2.51元創歷史次高",
+    "summary": "製藥包裝自動化設備大廠皇將（4744）12日公布去年合併財報，合併稅後純益1.35億元，每股稅後純益2.51元，董事會通過每股擬配發1元現金股利，配發率39.84%，以今天收盤價32.9元計算，現金殖利率3.04%。",
+    "link": "https://udn.com/news/story/7254/9376841?from=udn-ch1_breaknews-1-0-news",
+    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_3.jpg",
+    "published_at": "2026-03-12 20:27"
+  },
+  {
+    "title": "國家警報大響！花蓮近海20:14發生規模5.7地震 19縣市有感",
+    "summary": "地牛翻身，中央氣象署發布021 號顯著有感地震報告，花蓮近海今晚間8時14分發生規模5.7地震，地震深度15.1公里，氣象署針對花蓮發布國家級告警。",
+    "link": "https://udn.com/news/story/7266/9376840?from=udn-ch1_breaknews-1-0-news",
+    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/12/34757640.png&M=1&s=Y&x=0&y=0&sw=1278&sh=852&exp=3600",
+    "published_at": "2026-03-12 20:25"
+  },
+  {
+    "title": "把錢藏鳳梨酥禮盒…高公局高官收賄823萬元 監院彈劾並送懲戒",
+    "summary": "高公局南分局前分局長賴榮俊被發現於任職期間收受廠商賄賂計823萬元，被檢調發現錢就放在宿舍，還裝在牛皮紙袋、鳳梨酥禮盒中。監察院表示，賴榮俊於任職期間收受廠商賄賂，並洩漏採購秘密資訊，違失情節重大，通過對其彈劾案，並送懲戒法院審理。",
+    "link": "https://udn.com/news/story/7314/9376838?from=udn-ch1_breaknews-1-0-news",
+    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/12/34757637.jpg&M=1&s=Y&x=1&y=570&sw=960&sh=640&exp=3600",
+    "published_at": "2026-03-12 20:24"
+  },
+  {
+    "title": "客家女力合體 徐巧芯力挺徐欣瑩角逐新竹縣長：唯一支持",
+    "summary": "國民黨新竹縣長初選戰鼓頻催，繼台北市長蔣萬安後黨內重量級女力展開跨區域串聯。立委徐巧芯今日與立委徐欣瑩合體發布推薦影片，徐在影片中強力背書，大讚徐欣瑩是新竹縣長最合適的人選，呼籲新竹縣民在接下來的初選民調中全力支持徐欣瑩。",
+    "link": "https://udn.com/news/story/124652/9376837?from=udn-ch1_breaknews-1-0-news",
+    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/12/34757636.jpg&M=1&s=Y&x=0&y=0&sw=1080&sh=720&exp=3600",
+    "published_at": "2026-03-12 20:24"
+  },
+  {
+    "title": "新竹水情綠燈轉黃燈 即日起減壓供水",
+    "summary": "新竹水情慘亮黃燈！經濟部水利署12日召開供水情勢檢討會議，決定新竹地區12日起水情燈號由提醒「綠燈」轉為減壓供水「黃燈」，即日起成立旱災緊急應變小組，並提報經濟部同步成立緊急應變小組加強因應。",
+    "link": "https://udn.com/news/story/7241/9376832?from=udn-ch1_breaknews-1-0-news",
+    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/12/34757633.jpg&M=1&s=Y&x=0&y=0&sw=1278&sh=852&exp=3600",
+    "published_at": "2026-03-12 20:22"
+  },
+  {
+    "title": "美利達財報／去年EPS 4.01元 每股擬配息2.8元",
+    "summary": "自行車大廠美利達（9914）12日公布2025年財報，去年全年稅後淨利12億元，EPS 4.01元，2024年因認為轉投資減損，稅後虧損7.66億元，EPS -2.34元。",
+    "link": "https://udn.com/news/story/7252/9376827?from=udn-ch1_breaknews-1-0-news",
+    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_2.jpg",
+    "published_at": "2026-03-12 20:19"
+  },
+  {
+    "title": "基隆廟口夜市旁水溝油垢滿出汙染 2餐飲業者排汙遭開罰10萬6千",
+    "summary": "基隆廟口夜市旁仁三路29巷11日遭民眾投訴，部分商家未落實油脂分離，油垢堆積到從水溝溢出，不僅惡臭且容易滑倒。市府今天查出是臨近兩家餐飲業者分別排出油汙廢水及空氣汙染，共裁處10萬元6000元，要求落實油水分離，不得再任意傾倒廢油水確保溝渠暢通，否則將按次重罰。",
+    "link": "https://udn.com/news/story/7328/9376826?from=udn-ch1_breaknews-1-0-news",
+    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/12/34757625.jpg&M=1&s=Y&x=1&y=267&sw=959&sh=640&exp=3600",
+    "published_at": "2026-03-12 20:19"
+  },
+  {
+    "title": "17縣市強風特報！強烈冷氣團襲台 多地網友驚喊「風狂吹」：騎車真的會甩尾",
+    "summary": "隨著強烈冷氣團持續南下，全台各地風勢明顯增強。氣象粉專「台灣颱風論壇｜天氣特急」提醒...",
+    "link": "https://udn.com/news/story/7266/9376744?from=udn-ch1_breaknews-1-0-news",
+    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/12/34757605.jpg&M=1&s=Y&x=0&y=11&sw=1280&sh=853&exp=3600",
+    "published_at": "2026-03-12 20:19"
+  },
+  {
+    "title": "環境部與海關聯手杜絕非法事業廢棄物輸出入 最高可罰千萬",
+    "summary": "為防堵事業廢棄物非法闖關，環境部環境管理署聯手資源循環署、財政部關務署等，全面強化邊境查驗。透過精準資料比對與現場抽查，事業廢棄物若以其他名義掩飾廢棄物企圖闖關，最高可依「廢棄物清理法」重罰1000萬元。",
+    "link": "https://udn.com/news/story/7266/9376822?from=udn-ch1_breaknews-1-0-news",
+    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/12/34757619.jpg&M=1&s=Y&x=0&y=0&sw=1079&sh=720&exp=3600",
+    "published_at": "2026-03-12 20:15"
+  },
+  {
+    "title": "行政院核定「第三期溫室氣體減量行動方案」 每年須對外公開進度",
+    "summary": "行政院於今年2月26日核定第3期能源、製造、住商、運輸、農業及環境等6大部門溫室氣體減量行動方案，執行期自2026年至2030年止。環境部今表示，中央有關機關將依據3期減量行動方案落實執行6大部門減量策略及20項減碳旗艦行動計畫，且每年須依法對外公開成果。",
+    "link": "https://udn.com/news/story/7266/9376820?from=udn-ch1_breaknews-1-0-news",
+    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/12/34757618.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=854&exp=3600",
+    "published_at": "2026-03-12 20:15"
+  },
+  {
+    "title": "IEA：中東戰爭造成石油市場史上最大供應干擾 今年石油供需同步下修",
+    "summary": "在宣布歷史性的緊急釋出石油庫存後隔天，國際能源總署（IEA）大幅下修對石油供應的增長預測，因中東戰爭正遏制全球最關鍵石油運輸路線之一的供應。",
+    "link": "https://udn.com/news/story/124061/9376818?from=udn-ch1_breaknews-1-0-news",
+    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/12/34757635.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=854&exp=3600",
+    "published_at": "2026-03-12 20:14"
+  },
+  {
+    "title": "單親媽媽買精生女 一年後發現孩子竟有47個「兄弟姊妹」",
+    "summary": "美國一名女子為了實現當母親的夢想，選擇購買精子自行生子，並成功迎來寶貝女兒。然而女子後來在社群媒體上發現，捐精者捐精給許多人，所以女兒有多達47名同父異母的兄弟姊妹，意外成為龐大「家庭」的一份子。",
+    "link": "https://udn.com/news/story/6810/9374823?from=udn-ch1_breaknews-1-0-news",
+    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/12/34754266.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600",
+    "published_at": "2026-03-12 20:12"
+  },
+  {
+    "title": "Uber One「家庭共享」方案上線 「1人訂閱、2人共享」會員福利再放大",
+    "summary": "外送族福音！Uber Eats宣布在台灣推出Uber One「家庭共享」新服務，即日起，Uber One訂閱會員可邀請另一位成人家人加入家庭帳戶，共享Uber及Uber Eats跨平台的專屬優惠，將會員價值從個人延伸至家庭，更結合既有的「青少年帳戶」、「學生方案」及「年長者帳戶」，建構出完整的全齡化家庭服務生態系。",
+    "link": "https://udn.com/news/story/7270/9376800?from=udn-ch1_breaknews-1-0-news",
+    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/12/34757607.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600",
+    "published_at": "2026-03-12 20:10"
+  },
+  {
+    "title": "房市買氣疲軟 住展風向球2月續亮黃藍燈",
+    "summary": "代表北台灣新建案市場概況的「住展風向球」發布2月燈號，仍是積弱不振的黃藍燈，分數是33.6分，為2021年COVID-1...",
+    "link": "https://udn.com/news/story/7241/9376755?from=udn-ch1_breaknews-1-0-news",
+    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/12/34757612.jpg&M=1&s=Y&x=0&y=107&sw=1280&sh=853&exp=3600",
+    "published_at": "2026-03-12 20:09"
+  },
+  {
+    "title": "國泰人壽代理發言人調整 李瑋琪、陳君婷接任第一及第二代理發言人",
+    "summary": "國泰金控（2882）12日代子公司國泰人壽保險股份有限公司公告代理發言人異動。原代理發言人、國泰人壽副總經理范千惠因職務調整卸任，並由兩名副總經理李瑋琪和陳君婷分別接任第一和第二代理發言人職務，異動原因為職務調整，並自3月12日起生效。",
+    "link": "https://udn.com/news/story/7239/9376799?from=udn-ch1_breaknews-1-0-news",
+    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6644_2.jpg",
+    "published_at": "2026-03-12 20:09"
+  },
+  {
+    "title": "美國海軍將護航油輪？美能源部長：很快發生「但不是現在」",
+    "summary": "美國能源部長萊特12日接受CNBC訪問時表示，被問到美國海軍是否能在月底前開始護送油輪，通過荷莫茲海峽，他回到：「我認為這種情況很有可能發生」。但他也表示，此事會「很快」發生，但不是「現在」，坦承美國尚未準備好立即啟動護航行動。",
+    "link": "https://udn.com/news/story/124061/9376786?from=udn-ch1_breaknews-1-0-news",
+    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/12/34757622.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600",
+    "published_at": "2026-03-12 20:05"
+  },
+  {
     "title": "美能源部長：油輪護航行動可能在月底前開展 不是現在",
     "summary": "美國能源部長萊特12日接受CNBC訪問時表示，被問到美國海軍是否能在月底前開始護送油輪，通過荷莫茲海峽，他回到：「我認為這種情況很有可能發生」。但他也表示，此事會「很快」發生，但不是「現在」，坦承美國尚未準備好立即啟動護航行動。",
     "link": "https://udn.com/news/story/6813/9376786?from=udn-ch1_breaknews-1-0-news",
-    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_1.jpg",
+    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/12/34757622.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600",
     "published_at": "2026-03-12 20:05"
   },
   {
     "title": "數位教育進入2.0時代 陸「知乎」CEO：AI漫劇正對行業造成結構性衝擊",
     "summary": "大陸政協委員、大陸知名知識學習平台知乎創始人、首席執行官周源在大陸全國「兩會」期間回應本報表示，AI讓數位教育進入2.0時代，不過他指出，近期走紅的「AI漫劇」正對傳統影視內容生產方式造成結構性衝擊。",
     "link": "https://udn.com/news/story/7333/9376784?from=udn-ch1_breaknews-1-0-news",
-    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/12/34757604.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600",
+    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/12/34757604.jpg&M=1&s=Y&x=70&y=100&sw=1210&sh=789&exp=3600",
     "published_at": "2026-03-12 20:04"
   },
   {
-    "title": "水情告急！經部：即起新竹轉「黃燈」 夜間減壓供水 科園廠商自主節水",
+    "title": "水情告急！經部：即起新竹轉「黃燈」夜間減壓供水 科園廠商自主節水",
     "summary": "經濟部水利署12日邀集各自來水事業、農田水利署、水庫管理及地方政府等相關單位召開供水情勢檢討會議，雖3月上旬春雨對農業整田有助益，惟為確保5月底前公共用水維持供應，經與會單位研商評估後，決定自12日起新竹地區由水情提醒綠燈轉為減壓供水黃燈，即日成立旱災水利署緊急應變小組，並提報經濟部亦同步成立緊急應變小組加強因應。",
     "link": "https://udn.com/news/story/7238/9376772?from=udn-ch1_breaknews-1-0-news",
-    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6644_1.jpg",
+    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6644_0.jpg",
     "published_at": "2026-03-12 20:01"
   },
   {
@@ -35,388 +413,10 @@
     "published_at": "2026-03-12 19:56"
   },
   {
-    "title": "保險業分階段揭露永續資訊 2027年第1季共14家優先揭露",
-    "summary": "金管會12日修正發布產、壽險永續資訊揭露規範，明定保險業需自2027年起分階段揭露經董事會決議通過的永續資訊，並於當年度申報財報的期限內更新，保險局指出，明年3月底前第一階段有14家保險公司需揭露2026年會計年度的永續資訊，2027年有8家，2028年有10家，另有11家保險公司可排除適用。",
-    "link": "https://udn.com/news/story/7239/9376766?from=udn-ch1_breaknews-1-0-news",
-    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6644_9.jpg",
-    "published_at": "2026-03-12 19:55"
-  },
-  {
     "title": "政院指新興計畫先行動支案史無前例 民眾黨團拿原話反嗆卓榮泰不副署",
     "summary": "今年度總預算持續卡關，立法院會先前二讀通過新興計畫先行動支案，行政院今天對此批評史無前例，不符合憲法與預算法規定。民眾黨立法院黨團總召陳清龍表示，行政院長卓榮泰拒絕依法編列預算、不副署不執行立法院三讀通過的法律案，如此才是真正史無前例。",
     "link": "https://udn.com/news/story/6656/9376765?from=udn-ch1_breaknews-1-0-news",
     "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/12/34757579.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600",
     "published_at": "2026-03-12 19:55"
-  },
-  {
-    "title": "參加外交部春宴 賴總統：盼朝野團結合作應對威權擴張等挑戰",
-    "summary": "賴清德總統今天晚間參加外交部春宴，他在致詞時提到，Team Taiwan在世界棒球經典賽將士用命，雖無法如願前往美國打第二階段，但已贏得世界的敬重；他期待新的一年，國泰民安、風調雨順，國家繼續進步發展，而面對地緣政治快速變化，以及威權主義的擴張，希望朝野團結合作，能夠成功因應各項挑戰。",
-    "link": "https://udn.com/news/story/6656/9376764?from=udn-ch1_breaknews-1-0-news",
-    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/12/34757601.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600",
-    "published_at": "2026-03-12 19:55"
-  },
-  {
-    "title": "數位保險公司申設進度曝光 保險局：最快第2季可望有業者送件",
-    "summary": "金管會去年放寬數位保險公司申設條件，加速保險業數位轉型，保險局副局長陳清源指出，截至目前有9家業者曾諮詢監理門診，其中8家為產險、1家壽險，但尚未接獲正式申請，不過經側面向業者了解，部分業者已積極準備申請文件，待內部經營方針達成共識後將提出申請，樂觀期待最快今年第2季有機會見到業者送件。",
-    "link": "https://udn.com/news/story/7239/9376762?from=udn-ch1_breaknews-1-0-news",
-    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6644_7.jpg",
-    "published_at": "2026-03-12 19:54"
-  },
-  {
-    "title": "影／家屬怒喊傷口灑鹽 假冒失蹤飛官發文男子到案稱「神明託夢」",
-    "summary": "空軍上尉辛柏毅1月6日駕駛F-16V戰機執行夜間訓練時，在花蓮外海失聯，迄今下落不明，卻有人假借其名義在臉書發文，稱還在海上某處活著，指控父母、太太如今都已不相信他還活著，辛妻怒斥在傷口上灑鹽，台南警方今通知發文者53歲施姓男子到案說明。",
-    "link": "https://udn.com/news/story/7320/9376758?from=udn-ch1_breaknews-1-0-news",
-    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/12/34757573.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600",
-    "published_at": "2026-03-12 19:51"
-  },
-  {
-    "title": "早已預料美啟動301調查  歐盟籲遵守雙方已達成貿易協議",
-    "summary": "美國今天宣布將啟動301條款調查，歐洲議會貿易委員會主席朗吉（Bernd Lange）表示，將密切關注調查動向，不會接受...",
-    "link": "https://udn.com/news/story/124373/9376696?from=udn-ch1_breaknews-1-0-news",
-    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/12/34757569.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600",
-    "published_at": "2026-03-12 19:48"
-  },
-  {
-    "title": "經典賽／贏球秘訣？義大利奪分組第一 MLB官網揭隊長2貼心舉動",
-    "summary": "義大利隊稍早在世界棒球經典賽（WBC）B組最後一場賽事擊敗墨西哥，總教練瑟維利曾說別去想數學，MLB官網專文分析，義國贏...",
-    "link": "https://udn.com/news/story/10785/9376750?from=udn-ch1_breaknews-1-0-news",
-    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/12/34757558.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600",
-    "published_at": "2026-03-12 19:48"
-  },
-  {
-    "title": "中東戰火延繞油價揚升 亞洲股市多收跌…僅曼谷、吉隆坡股市收漲。",
-    "summary": "市場分析師警告，荷莫茲海峽（Strait of Hormuz）的航運若長期受阻，將對全球經濟帶來嚴重衝擊，特別是亞洲和歐...",
-    "link": "https://udn.com/news/story/6811/9376748?from=udn-ch1_breaknews-1-0-news",
-    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/12/34757553.jpg&M=1&s=Y&x=214&y=0&sw=768&sh=512&exp=3600",
-    "published_at": "2026-03-12 19:46"
-  },
-  {
-    "title": "癌末婦拒向病魔低頭 賣自家製餅乾籌醫療費感動網友",
-    "summary": "不幸罹患癌症，還要面對家庭經濟壓力，可謂雪上加霜！馬來西亞1名女子確診癌症第4期，而她育有1個年紀尚幼孩子，加上丈夫從事低收入工作，單靠對方收入不足以應付治療開支，但即使是癌症末期，她都未有放棄，選擇販賣自家製餅乾，賺取微薄收入負擔醫藥費。她亦積極進行化療，保持樂觀心態，堅信總會戰勝病魔，不少網友則為她送上祝福，「祝她早日康復」。",
-    "link": "https://udn.com/news/story/6812/9376609?from=udn-ch1_breaknews-1-0-news",
-    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/12/34757385.jpg&M=1&s=Y&x=0&y=285&sw=960&sh=640&exp=3600",
-    "published_at": "2026-03-12 19:43"
-  },
-  {
-    "title": "24歲女遭外送員性侵拍片 冒險作餌配合警方再引淫狼上鉤",
-    "summary": "馬來西亞發生離譜性侵案。當地一名送貨員在協助女客人搬家後，藉故進入其房間性侵，之後更拍片威逼口交，同時恐嚇若然她呼救便會被殺。被害人擔心人身安全只好就犯，最後更被要求笑著合照。她事後報警求助，又以自身做餌聯合警方，以要求親眼看見對方刪片為由，邀約送貨員會面，警方則埋伏伺機出動，雙方在馬路展開追逐戰，送貨員最終被逮捕。",
-    "link": "https://udn.com/news/story/6812/9376658?from=udn-ch1_breaknews-1-0-news",
-    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/12/34757538.jpg&M=1&s=Y&x=4&y=0&sw=1276&sh=850&exp=3600",
-    "published_at": "2026-03-12 19:42"
-  },
-  {
-    "title": "證交所：振大環球13日起得融資券交易",
-    "summary": "臺灣證券交易所公告，振大環球（4441）自13日起得為融資融券交易。",
-    "link": "https://udn.com/news/story/7251/9376751?from=udn-ch1_breaknews-1-0-news",
-    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_7.jpg",
-    "published_at": "2026-03-12 19:37"
-  },
-  {
-    "title": "繞道出口…大量VLCC趕赴紅海揚布港 裝載沙國石油「運往亞洲」",
-    "summary": "大量油輪趕赴紅海揚布港裝載沙國石油，運往亞洲。大約30艘極大型油輪（VLCC，每艘能載運逾200萬桶原油），正趕往沙烏地阿拉伯在紅海沿岸的揚布港，將在未來幾天內抵達，準備裝載沙國從東部產油區經過油管輸送到西部港口的原油。",
-    "link": "https://udn.com/news/story/124061/9376742?from=udn-ch1_breaknews-1-0-news",
-    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/12/34757546.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600",
-    "published_at": "2026-03-12 19:33"
-  },
-  {
-    "title": "JAMEI CHEN 2026春夏 自馬爾地夫飄蕩而來的空氣感、放鬆與透",
-    "summary": "設計師品牌JAMEI CHEN（陳季敏）日前於品牌天母另空間發表了2026春夏系列，設計師將一段馬爾地夫旅行得到的靈感與悸動轉化為本季創作「浮光隱逸」（Whispering Tides）的靈感，進而將一種純粹、流動的放鬆化為服裝輪廓，輕舞飄逸。",
-    "link": "https://udn.com/news/story/7270/9376739?from=udn-ch1_breaknews-1-0-news",
-    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/12/34757519.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=852&exp=3600",
-    "published_at": "2026-03-12 19:32"
-  },
-  {
-    "title": "凱基金前二月獲利96億元、EPS 0.57元 調整後累計賺196億元",
-    "summary": "凱基金（2883）12日公告2月自結合併稅後純益，單月稅後純益40.19億元，累計前二月合併稅後純益96.64億元，每股稅後純益（EPS）0.57元。",
-    "link": "https://udn.com/news/story/7252/9376731?from=udn-ch1_breaknews-1-0-news",
-    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/12/34757507.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600",
-    "published_at": "2026-03-12 19:30"
-  },
-  {
-    "title": "知名健身房無預警關門…業者晚間將提退費方案 北市府要求說明",
-    "summary": "健身房「自由重量」北門館遭爆因積欠房租，產權遭強制執行，被貼上禁止進入公告，有消費者擔憂權益受損，市府體育局會同法務局消保官，今至現場執行聯合稽查，業者表示晚間預計公布退費資訊，並另尋營業場所。法務局表示，後續要業者前往相關說明，若拒絕說明，依法最高可處30萬元。",
-    "link": "https://udn.com/news/story/7266/9376723?from=udn-ch1_breaknews-1-0-news",
-    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/12/34757502.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=854&exp=3600",
-    "published_at": "2026-03-12 19:26"
-  },
-  {
-    "title": "基隆碇內大排又現泡沫汙染 停抽自來水",
-    "summary": "基隆市暖暖區碇內大排抽水站今天又發現水體出現大量白色泡沫汙染，環保局接獲通報前往稽查，緊急通知自來水公司停止八堵抽水站抽水，沿排水路線向上游追查汙染源，查出是消防泡沫原液洩漏，要求業者立即採取緊急應變措施防止汙染擴散，並裁罰10萬元、勒令業者立即停工。",
-    "link": "https://udn.com/news/story/7328/9376722?from=udn-ch1_breaknews-1-0-news",
-    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/12/34757500.jpg&M=1&s=Y&x=0&y=0&sw=1278&sh=852&exp=3600",
-    "published_at": "2026-03-12 19:26"
-  },
-  {
-    "title": "AI搶飯碗…28歲男收入暴跌剩3分之1 瀕臨破產網爆共鳴",
-    "summary": "隨著生成式人工智慧（AI）快速普及，許多產業的工作模式正被重新改寫。其中，原本高度依賴人力創作的內容產業，受到的衝擊尤其明顯。近期，一名日本28歲自由接案的網站寫手表示，自己因為企業改用AI撰寫內容，收入從每月約30萬日圓暴跌至10萬日圓...",
-    "link": "https://udn.com/news/story/6810/9376645?from=udn-ch1_breaknews-1-0-news",
-    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/12/34757424.png&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600",
-    "published_at": "2026-03-12 19:22"
-  },
-  {
-    "title": "南韓國會終於通過對美投資法案 美方卻啟動了301調查…再添不確定性",
-    "summary": "南韓國會12日在跨黨派支持下，通過特別法案，以落實對美國投資3,500億美元的承諾，距執政的共同民主黨推出該法案已相隔三個月之久，不過，美國貿易代表署（USTR）稍早已針對南韓等貿易夥伴，啟動新一輪301條款調查，為貿易前景添變數。",
-    "link": "https://udn.com/news/story/124373/9376721?from=udn-ch1_breaknews-1-0-news",
-    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/12/34757495.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600",
-    "published_at": "2026-03-12 19:22"
-  },
-  {
-    "title": "92歲翁外出散步未歸 家屬隔天接獲警通知噩耗",
-    "summary": "台北市一名92歲老翁前天傍晚外出散步未歸，家屬昨天一早驚聞警方傳來噩耗，已陳屍碧潭，急忙趕至現場指認身分無誤，警方報請檢方相驗後交由家屬領回處理善後事宜。",
-    "link": "https://udn.com/news/story/7320/9376717?from=udn-ch1_breaknews-1-0-news",
-    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/12/34757493.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600",
-    "published_at": "2026-03-12 19:21"
-  },
-  {
-    "title": "半導體產業需才恐急 亞大、矽品攜手校園建封裝類產線平台",
-    "summary": "AI晶片與高效能運算需求爆發，亞洲大學看見台灣半導體產業每月研發與製造人才缺口已超過3.4萬人，新鮮人工程師起薪普遍突破5萬元，今與知名封測大廠矽品精密共同舉行「半導體封裝類產線平台建置宣示」希望藉由將企業產線設備與訓練模式導入大學校園，透過產學深度結盟，培育具備即戰力的半導體工程人才。",
-    "link": "https://udn.com/news/story/6928/9376716?from=udn-ch1_breaknews-1-0-news",
-    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/12/34757490.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600",
-    "published_at": "2026-03-12 19:20"
-  },
-  {
-    "title": "南韓抑制油價飆漲  近30年首祭管控煉油廠供應價",
-    "summary": "南韓政府為了抑制因美伊戰爭而持續飆升的油價，自13日起將實施「石油最高價格制」，這是自1997年油價自由化以來，南韓首次...",
-    "link": "https://udn.com/news/story/124061/9376698?from=udn-ch1_breaknews-1-0-news",
-    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/12/34757487.png&M=1&s=Y&x=59&y=0&sw=1076&sh=717&exp=3600",
-    "published_at": "2026-03-12 19:20"
-  },
-  {
-    "title": "交通部公布交通事故數據 中市議員：挑數據放大修理盧秀燕",
-    "summary": "交通部今公布最新交通事故統計，引起民眾黨籍台中市議員江和樹批評，直指交通部司長吳東凌刻意挑行人議題放大攻擊盧秀燕，卻不提整體交通死亡人數高雄307人最高、台南同期增加人數最多，「民進黨為了政治點，忽略全國數據問題，這樣公平嗎？」",
-    "link": "https://udn.com/news/story/7325/9376715?from=udn-ch1_breaknews-1-0-news",
-    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/12/34757489.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600",
-    "published_at": "2026-03-12 19:19"
-  },
-  {
-    "title": "金寧鄉石蚵文化季4月1日登場 民代拋兩岸千人剝蚵構想受關注",
-    "summary": "一年一度「金寧鄉石蚵文化季」今年訂於4月1日登場，活動橫跨2個月、持續至5月30日。金寧鄉公所今天舉行活動記者會，宣布今年將推出千人剝蚵、觀光導覽、校園體驗與大型舞台活動等系列內容；會中金寧鄉民代表會主席黃文欣也拋出構想，建議未來可舉辦「兩岸三地千人剝蚵比賽」，引發關注。",
-    "link": "https://udn.com/news/story/7327/9376706?from=udn-ch1_breaknews-1-0-news",
-    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/12/34757467.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600",
-    "published_at": "2026-03-12 19:17"
-  },
-  {
-    "title": "獲矢板明夫封「中市早苗」 何欣純盼扭轉台中印象：會盡力改善治安",
-    "summary": "民進黨立委、台中市長參選人何欣純今天接受媒體人矢板明夫專訪，她表示現任市長盧秀燕雖號稱「媽媽市長」，台中8年來重大事件頻仍，很多人覺得城市不安全，若自己年底當選，會盡力改善城市治安，扭轉大家對台中的印象；矢板也讚何思緒清晰，彷彿日本首相「高市早苗」。",
-    "link": "https://udn.com/news/story/124652/9376713?from=udn-ch1_breaknews-1-0-news",
-    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/12/34757486.jpg&M=1&s=Y&x=0&y=100&sw=960&sh=640&exp=3600",
-    "published_at": "2026-03-12 19:17"
-  },
-  {
-    "title": "基隆大排出現白色泡沫 業者洩消防泡沫原液釀禍…環保局將罰10萬",
-    "summary": "基隆市暖暖區碇內大排抽水站附近河段，今天出現大量白色泡沫，環保局接獲通報後，通知自來水公司八堵抽水站暫停抽水，初步調查禍首是一家業者填充消防泡沫原液時，洩漏出50至60公升，在確認違法事實後將裁罰10萬元並要求停工。",
-    "link": "https://udn.com/news/story/7328/9376711?from=udn-ch1_breaknews-1-0-news",
-    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/12/34757479.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600",
-    "published_at": "2026-03-12 19:16"
-  },
-  {
-    "title": "防堵境外勢力竊密 台高檢邀產官學研商營業秘密保護機制",
-    "summary": "為強化台灣守護核心關鍵技術防禦機制，確保國際競爭優勢之韌性，加深產業界對核心關鍵技術具備國安層次的問題意識，台灣高檢署智慧財產分署昨日下午，在國科會南部科學園區管理局舉辦「以法為盾、守護國家核心關鍵技術」座談會，智財法院也指派法官與會。",
-    "link": "https://udn.com/news/story/7321/9376709?from=udn-ch1_breaknews-1-0-news",
-    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/12/34757476.jpg&M=1&s=Y&x=0&y=0&sw=1275&sh=850&exp=3600",
-    "published_at": "2026-03-12 19:15"
-  },
-  {
-    "title": "清明返鄉機位搶破頭 金門縣府啟動「未訂到機位」大調查",
-    "summary": "清明節連續假期將至，為協助鄉親順利返鄉祭祖，金門縣政府近日積極與交通部民用航空局協調，爭取增加台金航線空運運能。不過第一波訂位作業結束後，部分熱門航線仍出現機位不足情形，仍有鄉親未能順利訂到機票，縣府今天宣布啟動「未訂妥機位需求調查」，作為後續向中央爭取加開班機的重要依據。",
-    "link": "https://udn.com/news/story/7266/9376708?from=udn-ch1_breaknews-1-0-news",
-    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/12/34757474.jpg&M=1&s=Y&x=0&y=0&sw=1278&sh=853&exp=3600",
-    "published_at": "2026-03-12 19:15"
-  },
-  {
-    "title": "北竿硬地超馬3月20日開跑 海景+陡坡極限考驗等你來挑戰",
-    "summary": "第十屆「馬祖北竿硬地超級馬拉松」將於3月20日至21日在北竿登場，今年賽事以「榮耀北竿‧十載硬道」為主題，象徵活動邁入十週年里程碑，主辦單位邀請全國跑者齊聚離島，挑戰兼具海景與坡度的硬地賽道，在壯麗島嶼風光中感受北竿獨特的路跑魅力。",
-    "link": "https://udn.com/news/story/7327/9376707?from=udn-ch1_breaknews-1-0-news",
-    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/12/34757473.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600",
-    "published_at": "2026-03-12 19:15"
-  },
-  {
-    "title": "1月信用卡簽帳金額達4281億元 寫歷年同期新高",
-    "summary": "金管會最新統計顯示，民眾今年1月信用卡簽帳金額為新台幣4281億元，雖月減256億元，不過單月金額仍創歷年同期新高，年增...",
-    "link": "https://udn.com/news/story/7239/9376683?from=udn-ch1_breaknews-1-0-news",
-    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/12/34757461.jpg&M=1&s=Y&x=0&y=34&sw=1280&sh=854&exp=3600",
-    "published_at": "2026-03-12 19:15"
-  },
-  {
-    "title": "賴總統出席外縣市活動大讚林國漳 藍白酸：「總統級」競選總幹事急了",
-    "summary": "賴清德總統今天在桃園參加植樹活動，大讚民進黨宜蘭縣長參選人林國漳提出「森林城鄉」計畫具前瞻性，令人激賞，鼓勵參選人提出類似政見。對此，國民黨參選人吳宗憲大酸林國漳有「總統級」競選總幹事，連在外縣市參加活動都要提到林；民眾黨參選人陳琬惠說，藍白朝整合路線，可能讓賴清德滿急的。",
-    "link": "https://udn.com/news/story/124652/9376705?from=udn-ch1_breaknews-1-0-news",
-    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/12/34757463.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600",
-    "published_at": "2026-03-12 19:15"
-  },
-  {
-    "title": "大摩：奇鋐今年EPS可達82.63元 目標價從1,800元大幅調高到2,300元",
-    "summary": "摩根士丹利證券（大摩）指出，奇鋐（3017）今年成長前景優，持續在中國大陸及越南擴產，以滿足繪圖處理器（GPU）及特殊應用IC（ASIC）客戶對於液冷及伺服器機箱的強勁需求，因此大摩將奇鋐目標價從1,800元大升27%至2,300元，維持「優於大盤」評等。",
-    "link": "https://udn.com/news/story/7253/9376699?from=udn-ch1_breaknews-1-0-news",
-    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_5.jpg",
-    "published_at": "2026-03-12 19:13"
-  },
-  {
-    "title": "UBA／金門來台逐夢 黃羽婷打三隊終於攻蛋",
-    "summary": "離開從小成長的金門，黃羽婷大學來台打球就設下「攻蛋」夢想，從大學台體大、研究所美和科大到114學年加入中信學院，她的小巨蛋打球目標終於在今年實現，且中信不但隊史首度打進小巨蛋，今天114學年UBA公開女一級六強複賽最終戰以99：69擊敗佛光大學，更搶下頭號種子。",
-    "link": "https://udn.com/news/story/7003/9376693?from=udn-ch1_breaknews-1-0-news",
-    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/12/34757455.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600",
-    "published_at": "2026-03-12 19:04"
-  },
-  {
-    "title": "陸投資傾斜科技引擔憂？林毅夫：要幫助退出產業更好過度",
-    "summary": "外界有聲音擔憂大陸投資與政策可能支持過度傾斜科技產業，對此，大陸政協委員、北京大學新結構經濟學研究院院長林毅夫接受本報採訪表示，這是要去面對、要去解決的問題，因為經濟發展過程一定是現代技術，現代產業不斷湧現，舊產業不斷退出。",
-    "link": "https://udn.com/news/story/7333/9376692?from=udn-ch1_breaknews-1-0-news",
-    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/12/34757454.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600",
-    "published_at": "2026-03-12 19:03"
-  },
-  {
-    "title": "林毅夫：陸2035年前有經濟增長8%潛力 美要有被中印經濟規模超越準備",
-    "summary": "大陸政協委員、北京大學新結構經濟學研究院院長林毅夫在大陸全國「兩會」期間接受本報採訪表示，美國需要為中印經濟規模超越美國做好準備；大陸到2035年之前存在經濟增長8%的潛力。",
-    "link": "https://udn.com/news/story/7333/9376691?from=udn-ch1_breaknews-1-0-news",
-    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/12/34757448.jpg&M=1&s=Y&x=0&y=106&sw=1280&sh=854&exp=3600",
-    "published_at": "2026-03-12 19:03"
-  },
-  {
-    "title": "烏克蘭尋求與美達成無人機相關協議 澤倫斯基：仍需白宮批准",
-    "summary": "美聯社報導，烏克蘭總統澤倫斯基表示，烏克蘭正尋求與美國簽署關於無人機生產的重大協議，但需要白宮批准。",
-    "link": "https://udn.com/news/story/6809/9376686?from=udn-ch1_breaknews-1-0-news",
-    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/12/34757440.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600",
-    "published_at": "2026-03-12 19:01"
-  },
-  {
-    "title": "回填瀝青渣出油 汐止橫科農民掛白布條抗議污染水源",
-    "summary": "在汐止區橫科里有一片大約3000多坪的農地，這一個月來整地的地主傾倒大量的瀝青渣回填，造成一旁農田的灌溉用水上面都浮了一層油，農民不滿水源被重油污染，根本沒辦法種菜，生計受到影響，拉白布條抗議。",
-    "link": "https://udn.com/news/story/7323/9376571?from=udn-ch1_breaknews-1-0-news",
-    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/12/34757298.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600",
-    "published_at": "2026-03-12 18:56"
-  },
-  {
-    "title": "淡水國小迎130週年 學童陶藝拼貼打造景觀藝術牆",
-    "summary": "為迎接淡水國小130週年的來到，學校由三至六年級八百多位學童，總計一千多件的作品燒製成陶盤，拼貼在校園外牆，打造一面公共生態藝術牆面，在校長及校友同窗會理事長帶領下，學生將自己的作品，透過藝術牆工程師傅的指導，用水泥貼在校園外牆的大型花朵上頭，作品以「環境永續、手作共創、媒體敘事、多元文化」為核心理念，讓一面校園牆面不再只是靜態的美術展示，而成為一個能被看見、被聆聽、被說故事、並持續延伸學習的教育媒介。",
-    "link": "https://udn.com/news/story/7323/9376559?from=udn-ch1_breaknews-1-0-news",
-    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/12/34757283.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600",
-    "published_at": "2026-03-12 18:54"
-  },
-  {
-    "title": "小鐵人騎行舊草嶺隧道 學童飽覽貢寮山海之美",
-    "summary": "為慶祝創校70周年，新北市貢寮區福隆國小今(12)日上午舉辦「福隆騎跡・騎情山海－舊草嶺隧道環狀鐵馬行」活動，並在福隆國小操場熱鬧展開，活動吸引多所學校師生共同參與，透過自行車騎行體驗貢寮山海之美，現場氣氛熱血沸騰。",
-    "link": "https://udn.com/news/story/7323/9376506?from=udn-ch1_breaknews-1-0-news",
-    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/12/34757200.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600",
-    "published_at": "2026-03-12 18:53"
-  },
-  {
-    "title": "世界室內拔河錦標賽首度在台登場 地主隊首日公開賽斬獲3金3銀3銅  ",
-    "summary": "「2026年台北世界室內拔河錦標賽」今天在台北小巨蛋由公開賽率先點燃戰火，這是台灣首次舉辦世界級拔河運動國際賽事，台灣男、女子拔河隊將士用命，首日就斬獲3金、3銀、3銅亮眼成績單，展現台灣拔河王國的強大實力，也為後續的錦標賽先壯形色。",
-    "link": "https://udn.com/news/story/7005/9376668?from=udn-ch1_breaknews-1-0-news",
-    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/12/34757435.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600",
-    "published_at": "2026-03-12 18:52"
-  },
-  {
-    "title": "頭痛竟是猝死前兆？ 醫師揭3致命危險恐「大腦最後警報」",
-    "summary": "許多民眾都有熬夜、壓力大導致頭痛的經驗，常視其為日常。然而，胸腔暨重症醫學科醫師黃軒示警，雖然大多數頭痛屬於良性的緊張型或偏頭痛，但特定類型的頭痛其實是大腦發出的「最後求救警報」，嚴重時甚至會導致猝死。",
-    "link": "https://udn.com/news/story/7266/9376593?from=udn-ch1_breaknews-1-0-news",
-    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/12/34757418.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600",
-    "published_at": "2026-03-12 18:51"
-  },
-  {
-    "title": "緯創財報／去年獲利創新高 每股將配5.5元現金股利",
-    "summary": "代工大廠緯創（3231）公告2025年財報，去年稅後淨利274.08億元，不僅相較2024年明顯增加57.1％，且獲利表現更將近賺一個股本，每股純益9.04元。緯創預計每股將配發5.5元現金，配發率達到六成。",
-    "link": "https://udn.com/news/story/7253/9376664?from=udn-ch1_breaknews-1-0-news",
-    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_3.jpg",
-    "published_at": "2026-03-12 18:49"
-  },
-  {
-    "title": "中信金自結前兩月獲利155億元 每股賺0.8元",
-    "summary": "中信金（2891）12日公告2026年2月份獲利，單月稅後純益81.59億元；累計前兩月合併稅後純益155.26億元，每股稅後純益（EPS）為0.8元。",
-    "link": "https://udn.com/news/story/7252/9376663?from=udn-ch1_breaknews-1-0-news",
-    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/12/34757459.jpg&M=1&s=Y&x=0&y=50&sw=1280&sh=853&exp=3600",
-    "published_at": "2026-03-12 18:48"
-  },
-  {
-    "title": "聚陽董事長看美伊衝突升溫 品牌下單轉趨審慎、長單轉短單",
-    "summary": "聚陽（1477）董事長周理平12日表示，近期國際局勢變動，美伊衝突升高，雖然目前尚未對成衣產業景氣造成明顯衝擊，但品牌客戶在下單決策上已出現轉趨審慎的跡象。面對全球經濟不確定性升高，聚陽將持續透過「多元產品、多國產能配置及數位創新能力」三大策略，強化企業營運韌性。",
-    "link": "https://udn.com/news/story/7241/9376662?from=udn-ch1_breaknews-1-0-news",
-    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/12/34757434.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600",
-    "published_at": "2026-03-12 18:48"
-  },
-  {
-    "title": "兆豐金今年配發現金股利 每股有望優於1.5元",
-    "summary": "兆豐金控今（12）日由總經理張傳章主持線上法說會，兆豐金控2025年全年稅後淨利達350.38億元，年增率約1%，再創歷史新高，今年以來，截至2月底自結累計稅後淨利達69.97億元。兆豐金去年每股發放現金股利1.5元，對於今年的股利配發水準，張傳章說明，股利配發仍以現金為主，而且至少會優於去年水準。",
-    "link": "https://udn.com/news/story/7252/9376657?from=udn-ch1_breaknews-1-0-news",
-    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/12/34757430.jpg&M=1&s=Y&x=1&y=94&sw=959&sh=640&exp=3600",
-    "published_at": "2026-03-12 18:46"
-  },
-  {
-    "title": "桃機今年首季旅運量突破一千萬人次 去年客貨運成績亮眼",
-    "summary": "桃園國際機場公司今天宣布，桃園國際機場2026年第一季旅運量已突破一千萬人次，統計今年（2026）1月1日至3月10日共69天，累計旅運量已突破1001萬人次，相較2025年所需之77天及2019年所需之76天，2026年突破千萬人次時間提前1周左右。",
-    "link": "https://udn.com/news/story/7266/9376652?from=udn-ch1_breaknews-1-0-news",
-    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/12/34757428.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600",
-    "published_at": "2026-03-12 18:45"
-  },
-  {
-    "title": "陸外交部：反對美國以產能過剩為藉口啟動301貿易調查 ",
-    "summary": "美國將對中國大陸等主要貿易伙伴的工業產能過剩問題啟動貿易調查。大陸外交部回應稱，所謂產能過剩是一個偽命題，中方反對以此為藉口進行政治操弄。",
-    "link": "https://udn.com/news/story/7333/9376647?from=udn-ch1_breaknews-1-0-news",
-    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/12/34757423.png&M=1&s=Y&x=2&y=75&sw=1070&sh=713&exp=3600",
-    "published_at": "2026-03-12 18:40"
-  },
-  {
-    "title": "美喆財報／去年虧損6,232萬元、EPS -0.81元 每股擬配0.3元現金股利",
-    "summary": "美喆-KY（8466）公布2025年合併營收達31.63億元、年減18.09%，營業利益為7,269萬元、年減63.21%，稅後虧損6,232.5萬元，低於2024年稅後純益1.35億元，2025年每股虧損0.81元、低於2024年的每股純益2.02元。",
-    "link": "https://udn.com/news/story/7252/9376642?from=udn-ch1_breaknews-1-0-news",
-    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_2.jpg",
-    "published_at": "2026-03-12 18:35"
-  },
-  {
-    "title": "中東戰火延燒 杜拜遭無人機攻擊、科威特機場受損",
-    "summary": "中東戰火蔓延波斯灣地區，杜拜今天接連發生無人機攻擊與碎片墜落事件，科威特國際機場也在伊朗攻勢下再度受損，所幸皆未傳出有人...",
-    "link": "https://udn.com/news/story/124061/9376634?from=udn-ch1_breaknews-1-0-news",
-    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/12/34757411.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600",
-    "published_at": "2026-03-12 18:35"
-  },
-  {
-    "title": "台韓扶輪社捐AI遠距照護設備 雲林傷口、肌少患者就醫免奔波",
-    "summary": "人口老化帶來傷口和肌少病患驟增，對需要長期治療的偏鄉患者尤為困擾，受限於住院期限規定及居家傷口照護師人力不足，照護端和患者就醫，均需長途奔波。北港宗聖扶輪社發起台、韓扶輪社，今天捐贈一批「慢性傷口遠距智慧照護」設備給中國醫藥大學北港附設醫院，可遠距提供精準居家治療，造福偏鄉患者。",
-    "link": "https://udn.com/news/story/7326/9376640?from=udn-ch1_breaknews-1-0-news",
-    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/12/34757416.jpg&M=1&s=Y&x=0&y=0&sw=1183&sh=788&exp=3600",
-    "published_at": "2026-03-12 18:34"
-  },
-  {
-    "title": "築間財報／去年每股虧6.69元 啟動體質調整、多品牌布局衝刺",
-    "summary": "築間（7723）12日公告2025年全年合併營收為49.36億元，年減14.66％，營業損失0.76億元，歸屬母公司稅後淨損3.28億元，每股稅後虧損6.69元。公司表示，2025年虧損主因來自營運結構調整持續推進，且基於財務結構與業務發展考量，集團針對品牌以及門店進行汰弱留強，包括關閉部分業績未達預期的品牌門店，品牌布局重整與門市裝潢翻新等，使營收未達規模經濟，影響整體營運效率，進而影響全年獲利表現；然築間持續提升資源整合，建構標準化採購體系以管控營運成本，使全年平均毛利率得以維持在45.74％水準。",
-    "link": "https://udn.com/news/story/7254/9376638?from=udn-ch1_breaknews-1-0-news",
-    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_7.jpg",
-    "published_at": "2026-03-12 18:33"
-  },
-  {
-    "title": "新聞中的公民與社會／日本自民黨橫掃眾院316席 選舉制度對結果有何影響？",
-    "summary": "日本眾院選舉465席確定，高市帶領自民黨單獨拿下316席，是二戰後日本政黨首度跨越眾院三分之二絕對多數門檻，也寫下戰後單一政黨最多席次紀錄…",
-    "link": "https://udn.com/news/story/6904/9376600?from=udn-ch1_breaknews-1-0-news",
-    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/12/34757343.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600",
-    "published_at": "2026-03-12 18:31"
-  },
-  {
-    "title": "陽明財報／去年EPS為4.9元 每股擬配息2元",
-    "summary": "陽明海運（2609）於12日召開第411次董事會，通過114年度財務報告。陽明海運114年度合併營收為1,635.58億元，稅後純益170.97億元，稅後EPS為4.9元。考量永續發展與持續優化船隊結構所需，經董事會決議配發現金股利每股2元。",
-    "link": "https://udn.com/news/story/7252/9376636?from=udn-ch1_breaknews-1-0-news",
-    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_7.jpg",
-    "published_at": "2026-03-12 18:31"
-  },
-  {
-    "title": "嘉市府建請中央嚴謹認定30日道安死傷 確保數據真實以反映防制努力",
-    "summary": "交通部路政及道安司長吳東凌表示，30日整體死亡統計中，13個縣市政府呈現下降趨勢，但新北市、基隆市、嘉義市、台南市等4名縣市死亡人數增加。嘉義市政府對此表示，2025年30日內交通事故死亡人數增加，主因是部分死因並非交通事故，若扣除非屬交通事故人數，實際較2024年減少1人。行政院長卓榮泰已正面回應市府建言，並指示交通部研議修正道安分析數據的正確性與合理性。",
-    "link": "https://udn.com/news/story/7326/9376632?from=udn-ch1_breaknews-1-0-news",
-    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/12/34757404.jpg&M=1&s=Y&x=0&y=0&sw=1132&sh=754&exp=3600",
-    "published_at": "2026-03-12 18:30"
-  },
-  {
-    "title": "Uber One「家庭共享」方案上線 外送專法拉高訂單成本",
-    "summary": "Uber Eats 12日宣布在台灣及全球各國推出Uber One「家庭共享」方案。即日起，Uber One訂閱會員可邀請另一位成人加入家庭帳戶，共享Uber及 Uber Eats跨平台會員專屬優惠與福利，從點餐、生鮮雜貨到Uber 叫車服務全面涵蓋。",
-    "link": "https://udn.com/news/story/7241/9376627?from=udn-ch1_breaknews-1-0-news",
-    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/12/34757402.jpg&M=1&s=Y&x=0&y=33&sw=1280&sh=853&exp=3600",
-    "published_at": "2026-03-12 18:28"
-  },
-  {
-    "title": "緯創財報／營收、獲利皆創歷史新高 將持續擴充產能",
-    "summary": "緯創（3231）於12日公告去年財報，2025年合併營收達2.19兆元，較前年同期翻倍成長，並創下歷史新高；歸屬於母公司業主淨利274.1億元，年增57%；每股盈餘（EPS）為9.04元。第4季營收7,209億元，季增27%，年增143%；歸屬於母公司業主淨利81.7億元，季增10.3%，年增53.8%，營收、獲利皆是創下歷史同期新高；每股盈餘（EPS）為2.61元。",
-    "link": "https://udn.com/news/story/7253/9376626?from=udn-ch1_breaknews-1-0-news",
-    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_9.jpg",
-    "published_at": "2026-03-12 18:27"
   }
 ]
