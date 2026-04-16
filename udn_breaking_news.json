@@ -1,5 +1,40 @@
 [
   {
+    "title": "黃仁勳喊 AI 時代電力好重要 大同、華城、中興電迎大商機",
+    "summary": "輝達（NVIDIA）執行長黃仁勳接受Podcast訪談提到，先進封裝產能不足、晶片短缺等供應鏈瓶頸預計兩、三年內即可化解，但AI（人工智慧）發展真正長期制約在能源，直言「不能在沒有電力情況下建立一個工業」。",
+    "link": "https://udn.com/news/story/7240/9447048?from=udn-ch1_breaknews-1-0-news",
+    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6644_8.jpg",
+    "published_at": "2026-04-17 00:22"
+  },
+  {
+    "title": "中年重拾絕活織出一片天 「台東藺草編」保存者林黃嬌95歲辭世",
+    "summary": "台東縣傳統工藝「台東藺草編」保存者林黃嬌於4月13日辭世，享耆壽95歲。文化部表示，林黃嬌長年致力「藺草編」的傳承與推廣，為傳統工藝保存奠定深厚基礎，文化部將頒發旌揚狀予以表彰。",
+    "link": "https://udn.com/news/story/7328/9447017?from=udn-ch1_breaknews-1-0-news",
+    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/17/34863191.jpg&M=1&s=Y&x=0&y=0&sw=1212&sh=808&exp=3600",
+    "published_at": "2026-04-17 00:02"
+  },
+  {
+    "title": "川普發文 稱以色列和黎巴嫩同意停火10天",
+    "summary": "美國總統川普16日在社群平台發文，表示他剛與黎巴嫩總統奧恩和以色列總理內唐亞胡進行極有成效的會談，兩位領導人一致同意，為了實現兩國和平，將於美東時間16日下午5點（台灣時間17日早上5點）正式開始為期10天的停火。",
+    "link": "https://udn.com/news/story/124061/9447015?from=udn-ch1_breaknews-1-0-news",
+    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/16/34863190.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600",
+    "published_at": "2026-04-17 00:02"
+  },
+  {
+    "title": "日本沖繩「珊瑚之島」訪基隆 邱佩琳盼締結姐妹市深化台日城市交流",
+    "summary": "日本沖繩縣宇流麻市市民生活部長松岡秀光及經濟產業部長岸本力等代表團，今天拜會基隆市政府，由副市長邱佩琳率民政處長呂謦煒等人親自接待。雙方就未來城市交流願景展開熱烈且深入的對話，並表達將朝締結姐妹市方向積極推進，為台日地方合作開啟嶄新契機。",
+    "link": "https://udn.com/news/story/7328/9447014?from=udn-ch1_breaknews-1-0-news",
+    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/16/34863187.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600",
+    "published_at": "2026-04-16 23:59"
+  },
+  {
+    "title": "基隆去年行人交通事故降43% 謝國樑：改善作為三管齊下",
+    "summary": "基隆市長謝國樑今晚在信義區智慧里活動中心舉辦市政說明會，他在交通安全方面表示，市府分析行人事故除車輛未禮讓外，行人未依標誌標線通行亦為關鍵因素，市府推動「行人有序專案」，結合宣導、執法與工程改善三管齊下，有顯著成效，114年行人交通事故計202件，較113年360件減少158件，降幅達43.8%。",
+    "link": "https://udn.com/news/story/7328/9446948?from=udn-ch1_breaknews-1-0-news",
+    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/16/34863129.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600",
+    "published_at": "2026-04-16 23:33"
+  },
+  {
     "title": "CNN：黎巴嫩總統與川普通話 稍早拒絕和內唐亞胡通話",
     "summary": "美國CNN報導，黎巴嫩總統府指出，黎巴嫩總統奧恩（Joseph Aoun）與美國總統川普通話。奧恩先前拒絕和以色列總理內唐亞胡通話。",
     "link": "https://udn.com/news/story/6809/9446876?from=udn-ch1_breaknews-1-0-news",
@@ -28,7 +63,7 @@
     "published_at": "2026-04-16 22:57"
   },
   {
-    "title": "獨／新北最大菡生婦幼中心驚傳詐保遭搜索 多名醫師遭約談",
+    "title": "獨／新北最大菡生婦幼中心驚傳詐保遭搜索 多名醫師被約談",
     "summary": "檢調接獲檢舉，指新北市知名菡生婦幼中心偽造不實患者病歷，涉及詐保事件。調查局今天兵分多路搜索菡生婦幼中心等處所，約談多名醫師、護理人員到案，晚間陸續移送新北地檢署複訊，不排除強制處分。",
     "link": "https://udn.com/news/story/7321/9446818?from=udn-ch1_breaknews-1-0-news",
     "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/16/34863029.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600",
@@ -383,40 +418,5 @@
     "link": "https://udn.com/news/story/7239/9446544?from=udn-ch1_breaknews-1-0-news",
     "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/16/34862679.jpg&M=1&s=Y&x=0&y=0&sw=1227&sh=818&exp=3600",
     "published_at": "2026-04-16 19:53"
-  },
-  {
-    "title": "收90萬販售清潔隊員職位 監院彈劾屏東竹田鄉長並送懲戒",
-    "summary": "屏東縣竹田鄉前鄉長吳振中利用擔任鄉長期間收受賄賂販售清潔隊員職位，監察院表示，被彈劾人吳振中為安排清潔隊員職缺，而收受90萬元賄賂，還威逼下屬製作不實考核結果以解僱時任4名清潔隊員，均核有違失，情節重大，因此通過彈劾案，全案並移送懲戒法院審理。",
-    "link": "https://udn.com/news/story/6656/9446542?from=udn-ch1_breaknews-1-0-news",
-    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/16/34862674.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600",
-    "published_at": "2026-04-16 19:50"
-  },
-  {
-    "title": "歐元區3月CPI上修至2.6% 中東戰事致能源價格勁揚",
-    "summary": "歐盟統計局（Eurostat）今天公布，受中東戰事推升能源價格勁揚影響，歐元區3月消費者物價指數（CPI）年增率從初值2...",
-    "link": "https://udn.com/news/story/6811/9446532?from=udn-ch1_breaknews-1-0-news",
-    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/16/34862669.jpg&M=1&s=Y&x=0&y=0&sw=1227&sh=818&exp=3600",
-    "published_at": "2026-04-16 19:49"
-  },
-  {
-    "title": "民間政經兵推探討經濟安全 提醒灰色襲擾可能來自金融經濟面向",
-    "summary": "由政大國關中心、台灣安全研究中心等機構主辦的「2026政經軍心情勢推演」，今天第二天繼續針對台灣的經濟安全、產業競爭力和經濟韌性等議題進行推演。推演計畫主持人劉復國提醒，灰色地帶襲擾可能不一定是以往普遍認知的海上或空中行動，也有可能來自經濟和金融面向。",
-    "link": "https://udn.com/news/story/6656/9446541?from=udn-ch1_breaknews-1-0-news",
-    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/16/34862673.jpg&M=1&s=Y&x=0&y=0&sw=1141&sh=761&exp=3600",
-    "published_at": "2026-04-16 19:49"
-  },
-  {
-    "title": "張榮恭批賴總統：軟硬不如陳水扁 避戰謀和才是保台關鍵",
-    "summary": "「鄭習會」日前落幕，國民黨副主席張榮恭陪同黨主席鄭麗文訪問大陸。張今晚接受廣播專訪，批賴清德總統軟硬都不如前總統陳水扁，連制憲正名都不敢講。張也說，民進黨不必緊張會破壞國安，不要拿大棒子嚇人，背後老大哥、美國總統川普罵遍各國領袖，只有對中國國家主席習近平讚不絕口",
-    "link": "https://udn.com/news/story/6656/9446540?from=udn-ch1_breaknews-1-0-news",
-    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/16/34862672.png&M=1&s=Y&x=147&y=0&sw=1080&sh=720&exp=3600",
-    "published_at": "2026-04-16 19:49"
-  },
-  {
-    "title": "鄭麗文赴陸費用申請補助 國民黨：符合民主基金會宗旨、經得起檢視",
-    "summary": "國民黨主席鄭麗文率團赴陸費用，已向外交部捐助成立的台灣民主基金會申請補助經費480萬元。台灣民主基金會今再度說明，全案尚未進入核銷階段；國民黨表示，民主基金會向來以報帳審查嚴謹著稱，國民黨此次訪陸的費用公開透明，完全經得起民主基金會的檢視。",
-    "link": "https://udn.com/news/story/124802/9446539?from=udn-ch1_breaknews-1-0-news",
-    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/16/34862686.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600",
-    "published_at": "2026-04-16 19:49"
   }
 ]
