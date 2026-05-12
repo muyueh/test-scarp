@@ -1,5 +1,40 @@
 [
   {
+    "title": "影／亞洲第三方驗證分析中心 宜特科技爆假發票灌水 女經理移送北檢",
+    "summary": "調查局獲報，上櫃公司宜特科技女經理許乃瑛、欣技資訊公司業務江明宗，利用客戶委託宜特驗證高速訊號期間，以3家公司假發票灌水報價，浮報上千萬元不法所得，台北市調查今天搜索許女等4名被告到案，台北地檢署複訊後，稍早依違反證交法命忠錸公司負責人張曉婷50萬交保。",
+    "link": "https://udn.com/news/story/7321/9498867?from=udn-ch1_breaknews-1-0-news",
+    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/05/12/34941095.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600",
+    "published_at": "2026-05-12 23:42"
+  },
+  {
+    "title": "花蓮吉安掩埋場火警面臨水源不足窘境 消防局河川抽水應急",
+    "summary": "花蓮吉安鄉光華垃圾掩埋場去年才發生火警，今晚再度傳出火災，起火點位於資源回收區拆解區，火舌不斷竄出。由於現場缺乏水源，消防員利用河川抽水及尋找周邊消防栓灌救，鄉長游淑貞表示，將研擬與自來水公司與水利單位協調，未來能增設供水設施，避免無水可用窘境。",
+    "link": "https://udn.com/news/story/7328/9498767?from=udn-ch1_breaknews-1-0-news",
+    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/05/12/34941015.jpg&M=1&s=Y&x=0&y=0&sw=1080&sh=720&exp=3600",
+    "published_at": "2026-05-12 23:12"
+  },
+  {
+    "title": "科威特指控伊朗 企圖攻擊「一帶一路」港口",
+    "summary": "美聯社報導，科威特政府12日指控伊朗，於5月3日派遣一支由伊斯蘭革命衛隊組成的武裝小組，試圖從波斯灣西北邊的呢威特布比延島（Bubiyan Island）滲透入境，攻擊科國境內由中國資助的穆巴拉克港建設計畫。",
+    "link": "https://udn.com/news/story/124061/9498749?from=udn-ch1_breaknews-1-0-news",
+    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/05/12/34941007.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600",
+    "published_at": "2026-05-12 23:09"
+  },
+  {
+    "title": "淡江大橋通車9小時就現首起車禍 大型重機追撞轎車騎士輕傷",
+    "summary": "淡江大橋今天上午11時30分才正式通車，不料不到9小時就發生第1起車禍事故。42歲高男騎大型重機沿淡江大橋往八里方向行駛時，疑未注意車前狀況追撞前方25歲張男駕駛的轎車，所幸高男僅輕微擦挫傷無大礙，確切肇事原因仍待後續釐清。",
+    "link": "https://udn.com/news/story/7320/9498747?from=udn-ch1_breaknews-1-0-news",
+    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/05/12/34941005.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600",
+    "published_at": "2026-05-12 23:08"
+  },
+  {
+    "title": "Lady Gaga演唱會免費線上看！Apple Music Live 5/15直播巡演最終章",
+    "summary": "小怪獸注意！Apple Music再度帶來重磅音樂企劃，宣布推出《Apple Music Live：Lady Gaga MAYHEM Requiem》現場演出，將於台灣時間5月15日上午11點全球同步直播，不僅能免費觀看首播，還同步推出空間音訊現場專輯，讓全球樂迷沉浸在Lady Gaga打造的劇場式音樂宇宙之中。無論是先前沒能跟上《The MAYHEM Ball》世界巡演，或是想再次重溫這場視覺與聽覺震撼演出的粉絲，都別忘了提前設好鬧鐘準時上線。",
+    "link": "https://udn.com/news/story/7270/9498727?from=udn-ch1_breaknews-1-0-news",
+    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/05/12/34940983.jpg&M=1&s=Y&x=0&y=19&sw=1278&sh=852&exp=3600",
+    "published_at": "2026-05-12 23:01"
+  },
+  {
     "title": "國家資通院內鬼案 檢調第二波約談最高層級為前瞻中心副主任",
     "summary": "國家資通安全研究院先前爆發內鬼案，調查局發現，前瞻研究中心研發組經理彭敏君，在研發一套行政系統時，因需要其他單位資料庫，指示下屬撰寫爬蟲程式，透過內部系統漏洞下載機敏資料，新北市調查處3月拘提彭男等3人到案，今天再發動第2波偵查，約談層級最高者是前瞻研究中心副主任許世璋，預計深夜移送台北地檢署複訊。",
     "link": "https://udn.com/news/story/7321/9498693?from=udn-ch1_breaknews-1-0-news",
@@ -383,40 +418,5 @@
     "link": "https://udn.com/news/story/7253/9498427?from=udn-ch1_breaknews-1-0-news",
     "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/05/12/34940603.jpg&M=1&s=Y&x=2&y=108&sw=1278&sh=852&exp=3600",
     "published_at": "2026-05-12 20:05"
-  },
-  {
-    "title": "一人飾兩角！男假裝賣教會音響詐百萬 法官判刑4年10月、沒收犯罪所得",
-    "summary": "蕭姓男子佯稱販售M32數位控台等商品，並1人分胞兄、客戶兩個角色，詐騙楊姓男子付款購買數位商品，及進一步合作製造燈光鋁合金衍架等相關配件。彰化地方法院審結，依網際網路對公眾散布而詐欺取財等罪，判處應執行有期徒刑4年10月。可上訴。",
-    "link": "https://udn.com/news/story/124490/9498426?from=udn-ch1_breaknews-1-0-news",
-    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/05/12/34940601.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600",
-    "published_at": "2026-05-12 20:04"
-  },
-  {
-    "title": "影／野獸林志傑擔任開球嘉賓 退役特展5月底登場",
-    "summary": "中華職棒今天由中信兄弟對上富邦悍將，並邀請野獸林志傑來擔任開球嘉賓，談到個展，林志傑表示展出內容將會是他生涯實戰上一些比較有意義的球衣、鞋款跟獎項，現場也會販售一些紀念商品。他也呼籲有興趣的朋友到時可以去參觀展覽。",
-    "link": "https://udn.com/news/story/7001/9498425?from=udn-ch1_breaknews-1-0-news",
-    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/05/12/34940599.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600",
-    "published_at": "2026-05-12 20:04"
-  },
-  {
-    "title": "投放毒餌？苗栗頭份稻田邊疑麻雀、蛇、鼠暴斃 警追下毒者",
-    "summary": "苗栗縣頭份市山下里中興路附近的稻田邊，下午發現疑似有人投放毒餌，造成許多麻雀死亡，還有蛇類遭遇「間接毒殺」，縣議員陳光軒接獲民眾反映並到場查看，已通報警方及苗栗縣動物保護防疫所，進一步追查投放毒餌的人士。",
-    "link": "https://udn.com/news/story/7320/9498423?from=udn-ch1_breaknews-1-0-news",
-    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/05/12/34940597.jpg&M=1&s=Y&x=0&y=67&sw=1280&sh=853&exp=3600",
-    "published_at": "2026-05-12 20:03"
-  },
-  {
-    "title": "人口狂灌！台中北屯年增率全台稱王 房價衝7字頭還有人進場原因曝光",
-    "summary": "根據今年Q1最新數據顯示，台中市北屯區約31.8萬人，居全台設籍人口數十大排行榜的第九名，人口年增率2.1%，居全國之冠，房市年交易量居台中榜首，其中14期重劃區平均成交單價站穩七字頭。建商分析，北屯小家庭占比逾四成，帶動百貨商圈人流與金流，彙集成為房市一級戰區。",
-    "link": "https://udn.com/news/story/7241/9498419?from=udn-ch1_breaknews-1-0-news",
-    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/05/12/34940590.jpg&M=1&s=Y&x=200&y=0&sw=1080&sh=720&exp=3600",
-    "published_at": "2026-05-12 20:00"
-  },
-  {
-    "title": "東元財報／首季EPS0.51元微衰退 砸16億購併馬國工程商強攻AIDC",
-    "summary": "東元（1504）董事會12日通過2026年第1季合併財務報告，單季歸屬母公司業主淨利11.88億元，季增12.82%、年增3.56%，每股純益0.51元。雖然歸屬母公司淨利呈現雙增，但受去年同期業外處分廈門廠房利益致基期較高，加上3月美伊戰爭導致部分馬達訂單出貨遞延影響，EPS較去年同期的0.54元微幅衰退。",
-    "link": "https://udn.com/news/story/7252/9498405?from=udn-ch1_breaknews-1-0-news",
-    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/05/12/34940589.png&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600",
-    "published_at": "2026-05-12 19:59"
   }
 ]
