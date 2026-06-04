@@ -1,5 +1,33 @@
 [
   {
+    "title": "清晨5時45分花蓮秀林規模3.8地震 最大震度2級",
+    "summary": "中央氣象署發布小區域有感地震報告，今天清晨5時45分，在花蓮縣政府西北西方17.5公里，位於花蓮縣秀林鄉，發生芮氏規模3.8地震，地震深度16.5公里。",
+    "link": "https://udn.com/news/story/7266/9547091?from=udn-ch1_breaknews-1-0-news",
+    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/06/05/35014420.png&M=1&s=Y&x=0&y=0&sw=1140&sh=760&exp=3600",
+    "published_at": "2026-06-05 06:07"
+  },
+  {
+    "title": "花蓮秀林鄉清晨發生規模3.8地震 最大震度2級",
+    "summary": "6月5日清晨05:45花蓮縣秀林鄉發生規模3.8地震，震源深度約16.5公里，最大震度2級，波及花蓮、南投、臺中及宜蘭部分地區。",
+    "link": "https://udn.com/news/story/7266/9547064?from=udn-ch1_breaknews-1-0-news",
+    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/06/05/35014401.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600",
+    "published_at": "2026-06-05 05:51"
+  },
+  {
+    "title": "美眾院通過要求結束伊朗戰爭 川普發文痛批「不愛國」",
+    "summary": "美國總統川普（Donald Trump）今天抨擊聯邦眾議院一項要求美軍撤出對伊朗戰爭的表決案，稱這項「不愛國」的舉動干擾...",
+    "link": "https://udn.com/news/story/124061/9547061?from=udn-ch1_breaknews-1-0-news",
+    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/06/05/35014400.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600",
+    "published_at": "2026-06-05 05:46"
+  },
+  {
+    "title": "南部水情有救了 專家曝2波顯著降雨水庫進帳可觀 但強風驟雨恐致水患",
+    "summary": "今天是24節氣的「芒種」，也是梅雨鋒面最活躍的時期。氣象專家林得恩今天在「林老師氣象站」臉書粉專表示，這波低壓帶的移入，以及下周梅雨鋒面的滯留，都有機會為南部水庫帶來顯著、可觀的入庫雨量，對於水庫水情，可望有效緩解。",
+    "link": "https://udn.com/news/story/7266/9547063?from=udn-ch1_breaknews-1-0-news",
+    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/06/05/35014399.jpg&M=1&s=Y&x=0&y=0&sw=1278&sh=852&exp=3600",
+    "published_at": "2026-06-05 05:42"
+  },
+  {
     "title": "今午後對流增強 吳德榮：下周一進入典型梅雨旺盛期 慎防致災雨威脅",
     "summary": "西南風、低氣壓及鋒面影響，易有短延時強降雨，中央氣象署發布大雨特報，新北市、桃園市、新竹縣山區及高雄市山區已有豪雨發生，今天台南、高雄、屏東、花蓮、台東地區及宜蘭縣山區有局部大雨發生的機率，山區慎防坍方及落石，低窪地區慎防積水。",
     "link": "https://udn.com/news/story/7266/9547057?from=udn-ch1_breaknews-1-0-news",
@@ -52,14 +80,14 @@
     "title": "納微躋身輝達 MGX 生態系 力積電跟著大咬 AI 電力革命商機",
     "summary": "功率半導體大廠納微（Navitas）打入輝達（NVIDIA）最新MGX生態系，供應最新800V直流（800VDC）供電架構所需氮化鎵與碳化矽晶片，力積電（6770）是納微主力代工廠，等於跟著納微一同躋身輝達打造新世代AI（人工智慧）資料中心電力基礎設施要角，大咬輝達引爆的「AI電力革命」商機。",
     "link": "https://udn.com/news/story/7240/9546948?from=udn-ch1_breaknews-1-0-news",
-    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6644_9.jpg",
+    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6644_3.jpg",
     "published_at": "2026-06-05 00:01"
   },
   {
     "title": "博通首度證實掉了Google單 聯發科出頭天 TPU訂單朝五成以上邁進",
     "summary": "博通3日於財報會議首度透露，大客戶Google「正在尋找其他供應商」。博通原獨拿Google張量處理器（TPU）相關設計訂單，如今獨供地位遭打破，業界直言：「搶單的就是聯發科」，未來聯發科（2454）分食到的訂單比重有望愈來愈高，朝五成以上邁進，力壓博通。",
     "link": "https://udn.com/news/story/7240/9546945?from=udn-ch1_breaknews-1-0-news",
-    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6644_9.jpg",
+    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6644_0.jpg",
     "published_at": "2026-06-04 23:57"
   },
   {
@@ -73,7 +101,7 @@
     "title": "葛里爾：「說話算話」 將遵守美歐日15%關稅上限",
     "summary": "路透報導，美國貿易代表葛里爾4日在巴黎表示，美國將遵守已與歐盟、日本等國達成的貿易協議中關於關稅上限的部分。",
     "link": "https://udn.com/news/story/6811/9546931?from=udn-ch1_breaknews-1-0-news",
-    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_4.jpg",
+    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_5.jpg",
     "published_at": "2026-06-04 23:39"
   },
   {
@@ -390,33 +418,5 @@
     "link": "https://udn.com/news/story/7270/9546590?from=udn-ch1_breaknews-1-0-news",
     "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/06/04/35013829.png&M=1&s=Y&x=0&y=0&sw=936&sh=624&exp=3600",
     "published_at": "2026-06-04 20:40"
-  },
-  {
-    "title": "太空國家隊9月迎首階段審查 緯創、仁寶低軌衛星布局路線不同",
-    "summary": "太空衛星國家隊成員緯創（3231）、仁寶（2324）即將在9月完成國家太空中心（TASA）2025年推動的「通訊衛星製造產業化平台」第一階段計畫審查，仁寶已表示對參與第二階段興趣濃厚，緯創跟仁寶兩家ODM大廠揮軍太空產業，但興趣焦點卻完全不同。",
-    "link": "https://udn.com/news/story/7240/9546589?from=udn-ch1_breaknews-1-0-news",
-    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/06/04/35013835.jpg&M=1&s=Y&x=0&y=211&sw=720&sh=480&exp=3600",
-    "published_at": "2026-06-04 20:40"
-  },
-  {
-    "title": "空姐懷孕歧視遭罰百萬 台灣虎航：已改善",
-    "summary": "桃園市空服員職業工會日前指出，台灣虎航要求空服員懷孕就得留職停薪，因懷孕歧視而遭開罰。虎航今（4）日發聲明，強調董事長黃世惠是虎航首位女性董事長，深知女性同仁在職涯與家庭平衡上承受的壓力，上任後已具體完成改善措施，懷孕同仁若選擇轉調地勤，保障申請次日就可正式上班。",
-    "link": "https://udn.com/news/story/7266/9546588?from=udn-ch1_breaknews-1-0-news",
-    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/06/04/35013828.jpg&M=1&s=Y&x=1&y=107&sw=1279&sh=853&exp=3600",
-    "published_at": "2026-06-04 20:40"
-  },
-  {
-    "title": "SpaceX搶走資金 拖累科技七雄、比特幣走勢？",
-    "summary": "SpaceX準備進行史上規模最大的股票首次公開發行（IPO），外界憂慮可能會從其他資產吸走資金。跡象顯示，這種情況或許已經發生，科技七雄過去一個月股價表現不及大盤、比特幣價格也一路重挫。",
-    "link": "https://udn.com/news/story/6811/9546584?from=udn-ch1_breaknews-1-0-news",
-    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/06/04/35013815.jpg&M=1&s=Y&x=0&y=0&sw=1140&sh=760&exp=3600",
-    "published_at": "2026-06-04 20:35"
-  },
-  {
-    "title": "台琉國際帆船賽7日登場 12個國家、36艘重型帆船參與",
-    "summary": "基隆台琉杯國際帆船賽將於7日登場，市府產業發展處扶植青年創業，6、7兩日在亞果八斗子遊艇港舉辦「潮嚮．山海基隆－青創市集」，活動以「揚帆港都」為主題，呼應基隆深厚的海洋文化底蘊與港灣城市特色。",
-    "link": "https://udn.com/news/story/7266/9546581?from=udn-ch1_breaknews-1-0-news",
-    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/06/04/35013809.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600",
-    "published_at": "2026-06-04 20:32"
   }
 ]
