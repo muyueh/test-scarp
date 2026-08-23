@@ -1,5 +1,40 @@
 [
   {
+    "title": "嘉義縣政府深夜宣布24日周一停班停課",
+    "summary": "受到西南風偏強及低壓帶影響，嘉義縣政府昨深夜11時49分公告，中南部地區發布豪大雨警示，持續短延時強降雨易有致災風險，為確保縣民安全，24日停止上班、停止上課，且縣內各地均有強大雨勢，提醒縣民外出注意自身安全，遠離山區及窪地，持續留意氣象資訊並做防汛準備。",
+    "link": "https://udn.com/news/story/7266/9709684?from=udn-ch1_breaknews-1-0-news",
+    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/08/24/35256860.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600",
+    "published_at": "2026-08-24 00:05"
+  },
+  {
+    "title": "豪雨狂炸「南部、花蓮山區下到發紅」台鐵深夜宣布2路線列車24日停駛",
+    "summary": "受到低壓帶及強西南風影響，嘉義以南、東半部有大雨或豪雨，南部山區、花蓮山區需慎防豪雨等級以上降雨。台鐵公司今深夜宣布，受到雨勢影響，明天中午12時前，南迴線及台東線對號列車停駛，其他列車正常行駛，但部分路段視豪大雨情形減速慢行。",
+    "link": "https://udn.com/news/story/7266/9709681?from=udn-ch1_breaknews-1-0-news",
+    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/08/23/35256849.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600",
+    "published_at": "2026-08-23 23:52"
+  },
+  {
+    "title": "台東雨量達標 縣府深夜宣布24日停止上班上課",
+    "summary": "連日遭雨彈狂炸，台東預估明天降雨達停班停課標準，台東縣政府今深夜宣布，根據中央氣象署資訊，受低壓帶及西南風影響，明天全縣雨量已達停班停課標準，為維護市民安全，台東縣明天（廿四日）停止上班、停止上課。",
+    "link": "https://udn.com/news/story/7266/9709647?from=udn-ch1_breaknews-1-0-news",
+    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/08/23/35256794.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600",
+    "published_at": "2026-08-23 23:28"
+  },
+  {
+    "title": "中油大林廠大雨中冒火煙 蒸餾工廠重油幫浦外洩消防44人搶救",
+    "summary": "中油位於小港區的大林煉油廠今晚9時55分許大雨中傳火警，消防局獲報出動20車44人前往搶救，抵達發現火煙是蒸餾工廠重油幫浦外洩燃燒所致，派出無人機、2台消防機器人協助救火，所幸未傳人員受傷受困，目前消防員出水防護壓制火勢中。",
+    "link": "https://udn.com/news/story/7320/9709626?from=udn-ch1_breaknews-1-0-news",
+    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/08/23/35256776.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600",
+    "published_at": "2026-08-23 23:18"
+  },
+  {
+    "title": "蘋果買陸記憶體 川普擬放行",
+    "summary": "科技媒體WCCFTech引述微博帳號「Mobile chip expert」報導，川普政府似乎正準備批准蘋果公司使用大陸記憶體廠長鑫存儲和長江存儲的記憶體晶片，預計在川普和習近平9月會晤後會達成正式協議。該帳號過去曾多次準確預測相關事件。",
+    "link": "https://udn.com/news/story/6811/9709611?from=udn-ch1_breaknews-1-0-news",
+    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_1.jpg",
+    "published_at": "2026-08-23 23:13"
+  },
+  {
     "title": "身障棒球／福岡世界賽中華隊開訓 總教練楊騏嘉：我們不是去觀光的",
     "summary": "2026年「第六屆世界身體障害者野球大賽」（世界身障棒球賽）將於11月21、22日在日本福岡北九州市民球場舉行，我國代表隊23日在新北市鹿角溪身障棒壘球場舉辦開訓典禮，總教練楊騏嘉挑明「未來3個月會很辛苦」，因為目標是前進冠軍賽。",
     "link": "https://udn.com/news/story/7001/9709610?from=udn-ch1_breaknews-1-0-news",
@@ -7,7 +42,7 @@
     "published_at": "2026-08-23 23:12"
   },
   {
-    "title": "因應南部豪雨 經濟部開應變會議 指示相關單位全力因應",
+    "title": "因應南部豪雨…經濟部開應變會議 指示相關單位全力因應",
     "summary": "氣象資訊顯示，低壓帶及西南風增強影響，嘉義以南持續有強對流移入，晚間起降雨熱區擴展至東半部，花蓮山區也有短延時強降雨機會。經濟部為嚴防持續性豪雨威脅，經濟部應變小組於今晚6時提升為一級開設，次長賴建信於晚間7時召開視訊會議，邀集能源署、產業園區管理局、商業發展署、台電公司、台水公司以及水利署第五、第六、第七、第八、第九、南區水資源分署等單位，指示全力應變。",
     "link": "https://udn.com/news/story/7266/9709603?from=udn-ch1_breaknews-1-0-news",
     "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/08/23/35256765.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600",
@@ -16,7 +51,7 @@
   {
     "title": "足球／哈蘭德迎戰曼城新球季 剪掉飄逸長髮俐落造型亮相",
     "summary": "挪威足球巨星哈蘭德（Erling Haaland）在他效力的英格蘭足球超級聯賽曼城隊本季開幕戰前剪掉了標誌性飄逸長髮，以...",
-    "link": "https://udn.com/news/story/7002/9709537?from=udn-ch1_breaknews-1-0-news",
+    "link": "https://udn.com/news/story/7005/9709537?from=udn-ch1_breaknews-1-0-news",
     "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/08/23/35256735.png&M=1&s=Y&x=0&y=179&sw=639&sh=426&exp=3600",
     "published_at": "2026-08-23 23:02"
   },
@@ -42,7 +77,7 @@
     "published_at": "2026-08-23 22:53"
   },
   {
-    "title": "整理／花蓮跟進！24日停班停課一覽 台南、高雄、屏東放第2天豪雨假",
+    "title": "整理／花蓮、台東、嘉義跟進！24日停班停課一覽 台南、高雄、屏東放第2天豪雨假",
     "summary": "受低壓帶及西南風持續影響，南台灣連日豪雨不斷。台南市、高雄市及屏東縣政府今（23）日晚間陸續宣布，明（24）日停止上班、停止上課，三縣市均為連續兩天宣布停班停課。另外，花蓮縣也宣布跟進停班停課。",
     "link": "https://udn.com/news/story/7266/9709239?from=udn-ch1_breaknews-1-0-news",
     "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/08/23/35256431.png&M=1&s=Y&x=0&y=0&sw=1200&sh=800&exp=3600",
@@ -383,40 +418,5 @@
     "link": "https://udn.com/news/story/124061/9709255?from=udn-ch1_breaknews-1-0-news",
     "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/08/23/35256465.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600",
     "published_at": "2026-08-23 19:57"
-  },
-  {
-    "title": "新北宗教界挺川後援會成立 李四川承諾推淡北快線、淡海新市鎮醫院",
-    "summary": "國民黨新北市長參選人李四川今天至淡水出席新北市宗教團體挺川後援會成立大會，現場數百名各宗教團體的代表及鄉親紛紛高喊凍蒜。李四川感謝各宗教團體攜手市府關懷弱勢、推廣公益，未來擔任市長將持續與慈善力量攜手讓城市變得更偉大。",
-    "link": "https://udn.com/news/story/7323/9709256?from=udn-ch1_breaknews-1-0-news",
-    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/08/23/35256456.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600",
-    "published_at": "2026-08-23 19:46"
-  },
-  {
-    "title": "500甜2026／全台最強甜點派對！3日吸客1.8萬人　明星甜點提早完售",
-    "summary": "指標性質感刊物《500輯》主辦、台灣首場以甜點為核心的飲食文化活動「500甜2026甜點派對」，在今日迎來活動最後一日。知名甜點餐廳「SEASON Artisan Pâtissier」特別在現場打造經典甜品，吸引許多甜點控排隊搶購，多個人氣品牌的甜點品項也陸續提早完售，活動三日共計吸引約18,000名民眾前來共襄盛舉，一同享受台灣甜點職人與優異品牌共同打造的甜蜜時光。",
-    "link": "https://udn.com/news/story/7270/9709253?from=udn-ch1_breaknews-1-0-news",
-    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/08/23/35256453.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600",
-    "published_at": "2026-08-23 19:43"
-  },
-  {
-    "title": "中職／8月狂象！兄弟10分差大勝獅隊單周4勝 游竣宥5局無失分奪生涯首勝",
-    "summary": "「8月狂象」席捲台北大巨蛋，中信兄弟今天再以11：1擊敗統一獅隊，本周在大巨蛋5場拿4勝，8月戰績11勝5敗，下半季率先收下第17勝，新秀左投游竣宥以5局無失分表現拿下生涯首勝，並獲選單場MVP。",
-    "link": "https://udn.com/news/story/7001/9709252?from=udn-ch1_breaknews-1-0-news",
-    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/08/23/35256439.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600",
-    "published_at": "2026-08-23 19:41"
-  },
-  {
-    "title": "中職／珉豪登大巨蛋獻出來台開球初體驗 林子豪大讚很有天份",
-    "summary": "統一 7-ELEVEN 獅 J-LIONS「非.日常」主題日今天在台北大巨蛋進入最後一天活動，賽前邀請南韓超人氣男團 SHINee的珉豪擔任開球嘉賓，並會參與賽後演出。",
-    "link": "https://udn.com/news/story/7001/9709250?from=udn-ch1_breaknews-1-0-news",
-    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/08/23/35256434.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600",
-    "published_at": "2026-08-23 19:37"
-  },
-  {
-    "title": "中職／進擊的藍海！「新莊城堡」單季9場破萬進場破紀錄",
-    "summary": "新莊棒球場今天再度開出破萬票房，球團宣布10045人進場，本季在「新莊城堡」已累積9場破萬場次，正式打破去年締造的8場紀錄。",
-    "link": "https://udn.com/news/story/7001/9709244?from=udn-ch1_breaknews-1-0-news",
-    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/08/23/35256429.jpg&M=1&s=Y&x=0&y=0&sw=1252&sh=835&exp=3600",
-    "published_at": "2026-08-23 19:26"
   }
 ]
