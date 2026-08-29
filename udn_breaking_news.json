@@ -1,16 +1,44 @@
 [
   {
+    "title": "「我是文組，怎麼可能進台積電？」數據揭開科技業一條被忽略的高薪路徑",
+    "summary": "科技業分紅大爆發，文組真的只能與高薪絕緣？當多數人認定高薪是理工生的世界，你以為自己輸在「非理工背景」，但真正拉開差距的，可能是另一件你從沒想過的事…",
+    "link": "https://udn.com/news/story/121591/9722051?from=udn-ch1_breaknews-1-0-news",
+    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/08/29/35276497.jpg&M=1&s=Y&x=0&y=0&sw=999&sh=666&exp=3600",
+    "published_at": "2026-08-30 05:00"
+  },
+  {
+    "title": "挪威新國王首度發聲 悼念父王、宣示肩負重任",
+    "summary": "挪威新國王哈康八世（Haakon VIII）繼位後今天首度公開向全體挪威民眾發表談話，緬懷昨天駕崩、享壽89歲的父親哈拉...",
+    "link": "https://udn.com/news/story/6809/9722320?from=udn-ch1_breaknews-1-0-news",
+    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_6.jpg",
+    "published_at": "2026-08-30 04:16"
+  },
+  {
+    "title": "美委石油協議能讓油價降嗎？關鍵問答一次看",
+    "summary": "美國總統川普稱與委內瑞拉達成「全球史上最大石油協議」，但美聯社分析指出，這項交易短期內恐怕難以壓低美國汽油價格。委內瑞拉...",
+    "link": "https://udn.com/news/story/6811/9722316?from=udn-ch1_breaknews-1-0-news",
+    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/08/30/35276825.jpg&M=1&s=Y&x=0&y=0&sw=1251&sh=834&exp=3600",
+    "published_at": "2026-08-30 03:19"
+  },
+  {
+    "title": "曾涉收賄百萬…桃園清潔稽查員收禮護航倒廢土 再判2年6月",
+    "summary": "桃園市環管處中壢區中隊巫姓稽查員2014年間，允諾業者以不到場或製作不實稽查紀錄，護航許在中壢區新中北路某地非法回填土方，業者以禮盒或吃飯為謝禮，桃園地院審結，依違背職務期約不正利益罪，判處2年6月，褫奪1年6月，可上訴。",
+    "link": "https://udn.com/news/story/7321/9722314?from=udn-ch1_breaknews-1-0-news",
+    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/08/30/35276823.jpg&M=1&s=Y&x=0&y=0&sw=960&sh=640&exp=3600",
+    "published_at": "2026-08-30 02:43"
+  },
+  {
     "title": "尼泊爾洪災釀682死 外長警告氣候變遷威脅加劇",
     "summary": "尼泊爾與中國西藏邊界26日發生致命洪災，造成682人喪生、近3000人失蹤之際，尼泊爾外交部長今天警告，氣候變遷對喜馬拉...",
     "link": "https://udn.com/news/story/124995/9722305?from=udn-ch1_breaknews-1-0-news",
-    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_0.jpg",
+    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_5.jpg",
     "published_at": "2026-08-30 01:22"
   },
   {
     "title": "俄羅斯空襲烏克蘭首都附近彈藥庫 增至37人喪命",
     "summary": "烏克蘭當局今天指出，俄羅斯昨天晚間出動無人機攻擊烏國首都基輔附近一處彈藥庫，引發火災與爆炸，迄今增至37人死亡，還有數十...",
     "link": "https://udn.com/news/story/6809/9722256?from=udn-ch1_breaknews-1-0-news",
-    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_0.jpg",
+    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_4.jpg",
     "published_at": "2026-08-30 00:40"
   },
   {
@@ -390,33 +418,5 @@
     "link": "https://udn.com/news/story/6885/9721993?from=udn-ch1_breaknews-1-0-news",
     "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/08/29/35276399.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600",
     "published_at": "2026-08-29 19:03"
-  },
-  {
-    "title": "花6千元吃高檔餐廳…民眾身體不適3天後投訴 中市食安處列高風險續追蹤",
-    "summary": "台中市食安處今天表示，有民眾在高檔餐廳用餐，返家後出現上吐下瀉症狀，3天後透過1999專線陳情，獲報後前往此餐廳稽查環境...",
-    "link": "https://udn.com/news/story/7266/9721986?from=udn-ch1_breaknews-1-0-news",
-    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/08/29/35276388.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600",
-    "published_at": "2026-08-29 19:02"
-  },
-  {
-    "title": "影／廟宇遭強押上車！南投23歲男7小時後遍體鱗傷 遭「丟包」急診不治",
-    "summary": "南投縣竹山鎮驚傳疑似暴力致死案，23歲莊姓男子今天清晨遭人送至竹山秀傳醫院急診，全身多處擦挫傷、意識不清，雙手前臂嚴重腫脹、雙腿也有多處傷痕，經搶救仍於上午6時43分宣告不治。警方初步掌握至少3名以上犯嫌，案件疑與私人糾紛有關，目前已有部分涉案對象遭鎖定，仍有人尚未到案，警方正積極追查。",
-    "link": "https://udn.com/news/story/7315/9721988?from=udn-ch1_breaknews-1-0-news",
-    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/08/29/35276387.jpg&M=1&s=Y&x=265&y=0&sw=766&sh=511&exp=3600",
-    "published_at": "2026-08-29 18:57"
-  },
-  {
-    "title": "新竹國際風箏節登場 台灣印象躍上天空展城市特色",
-    "summary": "2026新竹市國際風箏節今天在新竹漁港登場，竹市府表示，今年以台灣印象為主題，將生活記憶、文化信仰、自然生態及科技特色化...",
-    "link": "https://udn.com/news/story/7324/9721983?from=udn-ch1_breaknews-1-0-news",
-    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6641_1.jpg",
-    "published_at": "2026-08-29 18:56"
-  },
-  {
-    "title": "法人：華許言論偏中性 輝達財報、蘋果新機有利台股",
-    "summary": "美國聯準會主席華許言論被市場解讀偏鷹，美股下挫，法人認為，華許為因應美國公債到期資金壓力，現階段仍將維持不升息、不降息態...",
-    "link": "https://udn.com/news/story/7251/9721982?from=udn-ch1_breaknews-1-0-news",
-    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_8.jpg",
-    "published_at": "2026-08-29 18:53"
   }
 ]
